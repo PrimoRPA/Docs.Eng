@@ -1,10 +1,10 @@
 # Mouse click
 
-![](<../../../.gitbook/assets/0 (9).png>)
+![](<../../../.gitbook/assets/0 (45).png>)
 
 Element that mouse-clicks a selected control element. The component works correctly only inside the SAP container.
 
-![](<../../../.gitbook/assets/1 (19).png>)
+![](<../../../.gitbook/assets/1 (58).png>)
 
 Properties
 

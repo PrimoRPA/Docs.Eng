@@ -2,7 +2,7 @@
 
 Element that connects to Google Sheets spreadsheet.
 
-![](<../../../.gitbook/assets/image (260).png>)
+![](<../../../.gitbook/assets/image (255).png>)
 
 Properties
 

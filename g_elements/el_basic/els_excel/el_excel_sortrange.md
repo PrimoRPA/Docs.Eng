@@ -1,6 +1,6 @@
 # Sort range
 
-![](<../../../.gitbook/assets/image (97).png>)
+![](<../../../.gitbook/assets/image (28).png>)
 
 Element that sorts Excel cell range
 

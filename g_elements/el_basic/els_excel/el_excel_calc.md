@@ -1,6 +1,6 @@
 # Calculate formulas
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<../../../.gitbook/assets/image (52).png>)
 
 Element that recalculates Excel workbook formulas&#x20;
 

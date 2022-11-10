@@ -1,10 +1,10 @@
 # Read file
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (86).png>)
 
 Element that reads the content file.
 
-![](<../../../.gitbook/assets/1 (87).png>)
+![](<../../../.gitbook/assets/1 (65).png>)
 
 Properties
 

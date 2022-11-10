@@ -1,10 +1,10 @@
 # Read table
 
-![](<../../../.gitbook/assets/image (233).png>)
+![](<../../../.gitbook/assets/image (298).png>)
 
 Element reading the data of a tabular control element. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 
-![](<../../../.gitbook/assets/1 (39).png>)
+![](<../../../.gitbook/assets/1 (49).png>)
 
 Properties
 

@@ -1,6 +1,6 @@
 # Write file
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (1).png>)
 
 Element rewriting the content of a file
 

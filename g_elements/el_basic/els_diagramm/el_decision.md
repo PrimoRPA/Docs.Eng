@@ -1,6 +1,6 @@
 # Decision
 
-![](<../../../.gitbook/assets/image (48).png>)
+![](<../../../.gitbook/assets/image (46).png>)
 
 Element that chooses the path depends on equation result
 

@@ -1,10 +1,10 @@
 # Object to XML
 
-![](<../../../../.gitbook/assets/image (218).png>)
+![](<../../../../.gitbook/assets/image (134).png>)
 
 Element that converts an object to an XML string.
 
-![](<../../../../.gitbook/assets/1 (1).png>)
+![](<../../../../.gitbook/assets/1 (22).png>)
 
 &#x20;\- Variable\*: \[String] Variable that gets result XML string
 

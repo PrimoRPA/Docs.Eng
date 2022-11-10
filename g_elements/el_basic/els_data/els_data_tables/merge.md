@@ -1,10 +1,10 @@
 # Merge tables
 
-![](<../../../../.gitbook/assets/image (162).png>)
+![](<../../../../.gitbook/assets/image (145).png>)
 
 Element that merges two tables
 
-![](<../../../../.gitbook/assets/image (284).png>)
+![](<../../../../.gitbook/assets/image (142).png>)
 
 Properties
 

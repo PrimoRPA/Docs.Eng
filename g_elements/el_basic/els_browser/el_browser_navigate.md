@@ -1,10 +1,10 @@
 # Navigate
 
-![](<../../../.gitbook/assets/image (266).png>)
+![](<../../../.gitbook/assets/image (301).png>)
 
 Element that performs transition to a given address. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 
-![](<../../../.gitbook/assets/1 (29).png>)
+![](<../../../.gitbook/assets/1 (60).png>)
 
 Properties
 

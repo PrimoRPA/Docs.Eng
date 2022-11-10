@@ -1,10 +1,10 @@
 # Send message (SMTP)
 
-![](<../../../.gitbook/assets/image (86).png>)
+![](<../../../.gitbook/assets/image (41).png>)
 
 Element that sends mail messages via the SMTP protocol.
 
-![](<../../../.gitbook/assets/1 (86).png>)
+![](<../../../.gitbook/assets/1 (79).png>)
 
 Properties
 

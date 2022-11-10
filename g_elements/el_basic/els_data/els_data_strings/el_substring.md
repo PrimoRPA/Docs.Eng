@@ -1,10 +1,10 @@
 # Get substring
 
-![](<../../../../.gitbook/assets/image (248).png>)
+![](<../../../../.gitbook/assets/image (268).png>)
 
 Element that extracts substring from given string.
 
-![](<../../../../.gitbook/assets/image (145).png>)
+![](<../../../../.gitbook/assets/image (174).png>)
 
 Properties
 

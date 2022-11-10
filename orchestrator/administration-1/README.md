@@ -10,4 +10,4 @@ Orchestrator provides administration of:
 
 Administration menu is located on the left pannel:
 
-![](<../../.gitbook/assets/image (212).png>)
+![](<../../.gitbook/assets/image (175).png>)

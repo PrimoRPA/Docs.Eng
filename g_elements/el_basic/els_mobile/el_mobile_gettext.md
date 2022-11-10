@@ -1,10 +1,10 @@
 # Get text
 
-![](<../../../.gitbook/assets/0 (94).png>)
+![](<../../../.gitbook/assets/0 (96).png>)
 
 Element getting text from a control element. The component only works correctly inside the Connect to the device container.
 
-![](<../../../.gitbook/assets/1 (69).png>)
+![](<../../../.gitbook/assets/1 (99).png>)
 
 Properties
 

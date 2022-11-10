@@ -1,10 +1,10 @@
 # Remove column
 
-![](<../../../../.gitbook/assets/image (235).png>)
+![](<../../../../.gitbook/assets/image (307).png>)
 
 Element that removes table column
 
-![](<../../../../.gitbook/assets/image (122).png>)
+![](<../../../../.gitbook/assets/image (222).png>)
 
 Properties
 

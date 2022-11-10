@@ -2,7 +2,7 @@
 
 Element that sends Lotus Notes mail.
 
-![](<../../../../.gitbook/assets/image (141).png>)
+![](<../../../../.gitbook/assets/image (162).png>)
 
 Properties
 

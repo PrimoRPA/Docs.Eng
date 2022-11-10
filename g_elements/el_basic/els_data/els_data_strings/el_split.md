@@ -1,10 +1,10 @@
 # Split string
 
-![](<../../../../.gitbook/assets/image (151).png>)
+![](<../../../../.gitbook/assets/image (292).png>)
 
 Element that splits given string into substrings.
 
-![](<../../../../.gitbook/assets/image (126).png>)
+![](<../../../../.gitbook/assets/image (167).png>)
 
 Properties
 

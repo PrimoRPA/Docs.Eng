@@ -1,10 +1,10 @@
 # Restore window
 
-![](<../../../.gitbook/assets/0 (87).png>)
+![](<../../../.gitbook/assets/0 (82).png>)
 
 Element that restores the application window. The component works correctly only inside the Connect to an Application container.
 
-![](<../../../.gitbook/assets/1 (123).png>)
+![](<../../../.gitbook/assets/1 (118).png>)
 
 Properties
 

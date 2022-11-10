@@ -1,10 +1,10 @@
 # Get from clipboard
 
-![](<../../../.gitbook/assets/0 (53).png>)
+![](<../../../.gitbook/assets/0 (18).png>)
 
 Element getting data from the Clipboard.
 
-![](<../../../.gitbook/assets/1 (62).png>)
+![](<../../../.gitbook/assets/1 (46).png>)
 
 Properties
 

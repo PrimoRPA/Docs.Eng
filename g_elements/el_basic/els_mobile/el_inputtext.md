@@ -1,10 +1,10 @@
 # Type text
 
-![](<../../../.gitbook/assets/0 (75).png>)
+![](<../../../.gitbook/assets/0 (132).png>)
 
 Element that emulates text input. The component works correctly only inside the Connect to a Device container.
 
-![](<../../../.gitbook/assets/1 (73).png>)
+![](<../../../.gitbook/assets/1 (131).png>)
 
 Properties
 

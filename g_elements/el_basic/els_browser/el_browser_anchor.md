@@ -1,6 +1,6 @@
 # Anchor
 
-![](<../../../.gitbook/assets/image (210).png>)
+![](<../../../.gitbook/assets/image (179).png>)
 
 ![](../../../.gitbook/assets/Anchor.png)
 

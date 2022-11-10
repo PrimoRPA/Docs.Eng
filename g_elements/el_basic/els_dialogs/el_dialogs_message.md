@@ -1,10 +1,10 @@
 # Message box
 
-![](<../../../.gitbook/assets/0 (58).png>)
+![](<../../../.gitbook/assets/0 (12).png>)
 
 Element that displays a window with a specified message.
 
-![](<../../../.gitbook/assets/1 (43).png>)
+![](<../../../.gitbook/assets/1 (61).png>)
 
 Properties
 

@@ -1,6 +1,6 @@
 # Open browser
 
-![](<../../../.gitbook/assets/image (157).png>)
+![](<../../../.gitbook/assets/image (163).png>)
 
 Element that opens a new instance of the browser.
 

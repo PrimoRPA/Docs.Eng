@@ -1,10 +1,10 @@
 # Set Asset
 
-![](<../../../../.gitbook/assets/image (67).png>)
+![](<../../../../.gitbook/assets/image (100).png>)
 
 Element that sets a value in the Orchestrator
 
-![](<../../../../.gitbook/assets/1 (124).png>)
+![](<../../../../.gitbook/assets/1 (63).png>)
 
 Properties
 

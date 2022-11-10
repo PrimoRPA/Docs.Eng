@@ -1,10 +1,10 @@
 # Read mail
 
-![](<../../../.gitbook/assets/0 (80).png>)
+![](<../../../.gitbook/assets/0 (120).png>)
 
 Element that reads e-mail from Outlook. The component works correctly only inside the Outlook application container.
 
-![](<../../../.gitbook/assets/1 (104).png>)
+![](<../../../.gitbook/assets/1 (70).png>)
 
 Properties
 

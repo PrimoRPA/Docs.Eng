@@ -4,7 +4,7 @@
 
 Element to drag n drop control. There can be drag and drop by the search templates, and in this case Search pattern (source and destination) must be specified, or drag and drop by coordinates, in this case Coordinates (source and destination) must be specified.&#x20;
 
-![](<../../../.gitbook/assets/image (328).png>)
+![](<../../../.gitbook/assets/image (312).png>)
 
 Properties
 

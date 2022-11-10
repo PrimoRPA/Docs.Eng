@@ -1,8 +1,8 @@
 # Add table row
 
-![](<../../../.gitbook/assets/image (108).png>)
+![](<../../../.gitbook/assets/image (90).png>)
 
-![](<../../../.gitbook/assets/image (197).png>)
+![](<../../../.gitbook/assets/image (144).png>)
 
 
 

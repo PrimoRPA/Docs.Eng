@@ -1,6 +1,6 @@
 # Append range
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](<../../../.gitbook/assets/image (11).png>)
 
 Element that writes data of cell range into Excel&#x20;
 

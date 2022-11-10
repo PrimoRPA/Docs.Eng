@@ -4,7 +4,7 @@
 
 Element that gets list of running processes
 
-![](<../../../.gitbook/assets/image (333).png>)
+![](<../../../.gitbook/assets/image (309).png>)
 
 Properties
 

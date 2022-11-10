@@ -1,10 +1,10 @@
 # Start application
 
-![](<../../../.gitbook/assets/0 (101).png>)
+![](<../../../.gitbook/assets/0 (110).png>)
 
 Element that launches the application on your mobile device. The component works correctly only inside the container. Connect to a device.
 
-![](<../../../.gitbook/assets/1 (74).png>)
+![](<../../../.gitbook/assets/1 (80).png>)
 
 Properties
 

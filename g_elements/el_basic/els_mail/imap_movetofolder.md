@@ -1,10 +1,10 @@
 # Move to folder (IMAP)
 
-![](<../../../.gitbook/assets/image (79).png>)
+![](<../../../.gitbook/assets/image (84).png>)
 
 Element that moves messages between folders IMAP.
 
-![](<../../../.gitbook/assets/image (220).png>)
+![](<../../../.gitbook/assets/image (259).png>)
 
 Properties
 

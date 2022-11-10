@@ -1,6 +1,6 @@
 # XPath query
 
-![](<../../../../.gitbook/assets/image (173).png>)
+![](<../../../../.gitbook/assets/image (158).png>)
 
 ![](../../../../.gitbook/assets/XPath\_query.png)
 

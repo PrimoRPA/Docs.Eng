@@ -1,10 +1,10 @@
 # Throw
 
-![](<../../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (22).png>)
 
 Element that calls an exception with a specified text.
 
-![](<../../../.gitbook/assets/1 (105).png>)
+![](<../../../.gitbook/assets/1 (71).png>)
 
 Properties
 

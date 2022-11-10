@@ -1,8 +1,8 @@
 # Classify documents
 
-![](<../../../../.gitbook/assets/image (93).png>)
+![](<../../../../.gitbook/assets/image (4).png>)
 
-![](<../../../../.gitbook/assets/image (166).png>)
+![](<../../../../.gitbook/assets/image (277).png>)
 
 
 

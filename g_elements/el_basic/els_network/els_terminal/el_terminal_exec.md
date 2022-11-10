@@ -1,10 +1,10 @@
 # Execute script
 
-![](<../../../../.gitbook/assets/image (21).png>)
+![](<../../../../.gitbook/assets/image (27).png>)
 
 Element that executes a command on the terminal server
 
-![](<../../../../.gitbook/assets/1 (35).png>)
+![](<../../../../.gitbook/assets/1 (37).png>)
 
 Properties
 

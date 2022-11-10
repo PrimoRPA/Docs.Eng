@@ -1,10 +1,10 @@
 # Clean table
 
-![](<../../../../.gitbook/assets/image (133).png>)
+![](<../../../../.gitbook/assets/image (220).png>)
 
 Element that cleans table
 
-![](<../../../../.gitbook/assets/image (136).png>)
+![](<../../../../.gitbook/assets/image (270).png>)
 
 Properties
 

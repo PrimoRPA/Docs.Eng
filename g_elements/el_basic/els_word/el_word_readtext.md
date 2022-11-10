@@ -1,10 +1,10 @@
 # Get text
 
-![](<../../../.gitbook/assets/image (38).png>)
+![](<../../../.gitbook/assets/image (103).png>)
 
 Element getting data from Word documents. The component works correctly only inside the Word Application container.
 
-![](<../../../.gitbook/assets/1 (92).png>)
+![](<../../../.gitbook/assets/1 (90).png>)
 
 Properties
 

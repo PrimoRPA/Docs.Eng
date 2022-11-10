@@ -1,10 +1,10 @@
 # Command prompt
 
-![](<../../../.gitbook/assets/image (60).png>)
+![](<../../../.gitbook/assets/image (6).png>)
 
 Element that executes the CMD console command.
 
-![](<../../../.gitbook/assets/1 (115).png>)
+![](<../../../.gitbook/assets/1 (116).png>)
 
 Properties
 

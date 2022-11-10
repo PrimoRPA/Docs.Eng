@@ -1,10 +1,10 @@
 # Append line
 
-![](<../../../.gitbook/assets/image (96).png>)
+![](<../../../.gitbook/assets/image (95).png>)
 
 Element that adds a string to the end of the file.
 
-![](<../../../.gitbook/assets/1 (79).png>)
+![](<../../../.gitbook/assets/1 (102).png>)
 
 Properties
 

@@ -2,11 +2,11 @@
 
 
 
-![](<../../../.gitbook/assets/0 (57).png>)
+![](<../../../.gitbook/assets/0 (53).png>)
 
 Element that mouse-clicks a given text.
 
-![](<../../../.gitbook/assets/1 (57).png>)
+![](<../../../.gitbook/assets/1 (38).png>)
 
 Properties
 

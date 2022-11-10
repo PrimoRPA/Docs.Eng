@@ -1,6 +1,6 @@
 # Element vanish
 
-![](<../../../.gitbook/assets/image (159).png>)
+![](<../../../.gitbook/assets/image (303).png>)
 
 Element that await for control to vanish
 

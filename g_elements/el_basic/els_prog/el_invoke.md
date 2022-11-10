@@ -1,10 +1,10 @@
 # Invoke method
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](../../../.gitbook/assets/image.png)
 
 Element that invokes one string script call.
 
-![](<../../../.gitbook/assets/image (316).png>)
+![](<../../../.gitbook/assets/image (338).png>)
 
 Properties:
 

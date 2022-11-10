@@ -1,6 +1,6 @@
 # Close browser
 
-![](<../../../.gitbook/assets/image (279).png>)
+![](<../../../.gitbook/assets/image (161).png>)
 
 Element that stops a browser. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 

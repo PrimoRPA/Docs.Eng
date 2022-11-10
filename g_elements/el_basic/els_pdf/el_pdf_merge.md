@@ -1,10 +1,10 @@
 # Merge documents
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (75).png>)
 
 Element that consolidates two PDF documents into one
 
-![](<../../../.gitbook/assets/1 (61).png>)
+![](<../../../.gitbook/assets/1 (26).png>)
 
 Properties
 

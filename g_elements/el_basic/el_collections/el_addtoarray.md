@@ -1,10 +1,10 @@
 # Add to array
 
-![](<../../../.gitbook/assets/image (280).png>)
+![](<../../../.gitbook/assets/image (178).png>)
 
 Element that adds a new element to the collection.
 
-![](<../../../.gitbook/assets/1 (17).png>)
+![](<../../../.gitbook/assets/1 (33).png>)
 
 Properties
 

@@ -4,7 +4,7 @@ The Primo Studio traffic tracking subsystem allows you quickly and easily analyz
 
 The tracking subsystem is represented by the Traffic Capture, Packet Properties and Traffic Filter panels.
 
-The Traffic Capture panel displays, in chronological order, all requests and responses occurring at the user's workplace in real time. To start recording the traffic, you should click the Start capturing button ![](<../.gitbook/assets/0 (76).png>). As soon as you click the button, the panel table will start to display the requests made from your workplace. The table of requests (queries) displays the following data:
+The Traffic Capture panel displays, in chronological order, all requests and responses occurring at the user's workplace in real time. To start recording the traffic, you should click the Start capturing button ![](<../.gitbook/assets/0 (129).png>). As soon as you click the button, the panel table will start to display the requests made from your workplace. The table of requests (queries) displays the following data:
 
 * Result: Request event code
 * Protocol: Request protocol type
@@ -16,13 +16,13 @@ The Traffic Capture panel displays, in chronological order, all requests and res
 
 Request and response body text can be found by clicking on the + icon in the request header
 
-![](<../.gitbook/assets/1 (134).png>)
+![](<../.gitbook/assets/1 (100).png>)
 
 To stop recording click the Stop Interception button ![](<../.gitbook/assets/2 (16).png>)
 
-To delete selected requests from the list, click the Delete button ![](<../.gitbook/assets/3 (15).png>)
+To delete selected requests from the list, click the Delete button ![](<../.gitbook/assets/3 (14).png>)
 
-To clear the list of requests, click the Clear button ![](<../.gitbook/assets/4 (13).png>)
+To clear the list of requests, click the Clear button ![](<../.gitbook/assets/4 (14).png>)
 
 To get more information about a request and a response, you need to select it in the Traffic Capture panel, and then the information about the request will be reflected in the Properties panel of the packet.
 

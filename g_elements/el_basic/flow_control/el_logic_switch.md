@@ -1,6 +1,6 @@
 # Switch
 
-![](<../../../.gitbook/assets/image (100).png>)
+![](<../../../.gitbook/assets/image (51).png>)
 
 Element that checks given equation and then executes chosen branch
 

@@ -1,10 +1,10 @@
 # Date part
 
-![](<../../../../.gitbook/assets/image (215).png>)
+![](<../../../../.gitbook/assets/image (116).png>)
 
 Element that gets date part.
 
-![](<../../../../.gitbook/assets/image (224).png>)
+![](<../../../../.gitbook/assets/image (170).png>)
 
 Properties
 

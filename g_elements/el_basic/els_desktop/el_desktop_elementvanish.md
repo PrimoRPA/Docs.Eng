@@ -6,7 +6,7 @@
 
 Element that await for control to vanish
 
-![](<../../../.gitbook/assets/image (331).png>)
+![](<../../../.gitbook/assets/image (327).png>)
 
 Properties
 

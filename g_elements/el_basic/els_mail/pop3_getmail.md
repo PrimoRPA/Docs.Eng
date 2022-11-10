@@ -1,10 +1,10 @@
 # Receive mail POP3
 
-![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 Element that reads incoming messages POP3.
 
-![](<../../../.gitbook/assets/image (297).png>)
+![](<../../../.gitbook/assets/image (305).png>)
 
 Properties
 

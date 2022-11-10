@@ -4,11 +4,11 @@ The display of the studio panels can be fine-tuned. The states of the panels are
 
 To hide the panel, click the cross at the top right of the panel.
 
-![](<../.gitbook/assets/0 (126).png>)
+![](<../.gitbook/assets/0 (133).png>)
 
 To return the panel, click the corresponding button in the View menu.
 
-To control the automatic closing of the panel, gently click the button with the pin symbol next to the cross button ![](<../.gitbook/assets/1 (78).png>)
+To control the automatic closing of the panel, gently click the button with the pin symbol next to the cross button ![](<../.gitbook/assets/1 (98).png>)
 
 To move the panels across the screen, you need to grab the panel header and drag it to a relevant place.
 
@@ -20,18 +20,18 @@ To group the panels, you need to grab the panel header and drag it over the nece
 
 To configure buttons on the action panel and sections of the main menu, you can click the "Add or Remove Buttons" in the action panel
 
-![](<../.gitbook/assets/image (311).png>)
+![](<../.gitbook/assets/image (331).png>)
 
 In opened menu you can click on the sections of the menu to hide them or display them.
 
-![](<../.gitbook/assets/image (324).png>)
+![](<../.gitbook/assets/image (323).png>)
 
 For Action pannel advanced customization, you can click "Customize..."&#x20;
 
 In opened Customization window you can confugure buttons display and button command, create new buttons and configure icons and prompts display.
 
-![](<../.gitbook/assets/image (326).png>)
+![](<../.gitbook/assets/image (334).png>)
 
-![](<../.gitbook/assets/image (321).png>)
+![](<../.gitbook/assets/image (328).png>)
 
-![](<../.gitbook/assets/image (323).png>)
+![](<../.gitbook/assets/image (322).png>)

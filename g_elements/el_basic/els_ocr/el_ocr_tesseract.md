@@ -1,6 +1,6 @@
 # Tesseract OCR
 
-![](<../../../.gitbook/assets/image (51).png>)
+![](<../../../.gitbook/assets/image (91).png>)
 
 ![](https://gblobscdn.gitbook.com/assets%2Fprimo-rpa%2F-M-fan2wnyxTCFRJ8Rj7%2F-M-fb21SgrFqtI9v7QkM%2F1.png?generation=1581279621957180\&alt=media)
 

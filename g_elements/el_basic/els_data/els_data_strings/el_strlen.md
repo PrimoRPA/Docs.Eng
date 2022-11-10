@@ -1,10 +1,10 @@
 # String length
 
-![](<../../../../.gitbook/assets/image (250).png>)
+![](<../../../../.gitbook/assets/image (224).png>)
 
 Element that gets string length.
 
-![](<../../../../.gitbook/assets/image (208).png>)
+![](<../../../../.gitbook/assets/image (265).png>)
 
 Properties
 

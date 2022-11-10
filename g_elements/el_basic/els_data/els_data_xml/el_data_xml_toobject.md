@@ -1,10 +1,10 @@
 # XML to object
 
-![](<../../../../.gitbook/assets/image (222).png>)
+![](<../../../../.gitbook/assets/image (192).png>)
 
 Element that converts XML to an object.
 
-![](<../../../../.gitbook/assets/1 (7).png>)
+![](<../../../../.gitbook/assets/1 (47).png>)
 
 Properties
 

@@ -2,7 +2,7 @@
 
 Element that writes cells range to Google Sheets spreadsheet.
 
-![](<../../../.gitbook/assets/image (257).png>)
+![](<../../../.gitbook/assets/image (293).png>)
 
 Properties
 

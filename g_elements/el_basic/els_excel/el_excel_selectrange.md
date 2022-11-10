@@ -1,6 +1,6 @@
 # Select range
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (47).png>)
 
 \
 Element that selects Excel cells range

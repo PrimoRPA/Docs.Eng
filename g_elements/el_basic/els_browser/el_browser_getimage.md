@@ -1,10 +1,10 @@
 # Get image
 
-![](<../../../.gitbook/assets/image (262).png>)
+![](<../../../.gitbook/assets/image (130).png>)
 
 Element obtaining images. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 
-![](<../../../.gitbook/assets/1 (20).png>)
+![](<../../../.gitbook/assets/1 (18).png>)
 
 Properties
 

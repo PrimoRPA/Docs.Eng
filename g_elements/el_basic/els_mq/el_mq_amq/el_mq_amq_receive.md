@@ -1,6 +1,6 @@
 # ActiveMQ
 
-![](<../../../../.gitbook/assets/image (62).png>)
+![](<../../../../.gitbook/assets/image (37).png>)
 
 Element that read messages from ActiveMQ server queue.
 

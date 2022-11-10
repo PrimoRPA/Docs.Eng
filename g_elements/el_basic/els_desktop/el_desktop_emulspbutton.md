@@ -1,10 +1,10 @@
 # Hot-key simulation
 
-![](<../../../.gitbook/assets/0 (117).png>)
+![](<../../../.gitbook/assets/0 (87).png>)
 
 Element that emulates the special button pressing. The component works correctly only inside the Connect to an Application container.
 
-![](<../../../.gitbook/assets/1 (121).png>)
+![](<../../../.gitbook/assets/1 (82).png>)
 
 Properties
 

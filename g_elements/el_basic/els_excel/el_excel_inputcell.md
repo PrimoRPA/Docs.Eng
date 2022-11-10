@@ -1,10 +1,10 @@
 # Cell input
 
-![](<../../../.gitbook/assets/image (77).png>)
+![](<../../../.gitbook/assets/image (42).png>)
 
 Element that records data into an Excel cell. The component works correctly only inside the Excel container.
 
-![](<../../../.gitbook/assets/0 (88).png>)
+![](<../../../.gitbook/assets/0 (125).png>)
 
 Properties
 

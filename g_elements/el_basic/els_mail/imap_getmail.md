@@ -1,10 +1,10 @@
 # Receive mail (IMAP)
 
-![](<../../../.gitbook/assets/image (57).png>)
+![](<../../../.gitbook/assets/image (38).png>)
 
 Element that reads incoming messages IMAP.
 
-![](<../../../.gitbook/assets/image (293).png>)
+![](<../../../.gitbook/assets/image (194).png>)
 
 Properties
 

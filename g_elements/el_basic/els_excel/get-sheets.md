@@ -1,6 +1,6 @@
 # Get sheets
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (32).png>)
 
 Element that get Excel workbook pages list
 

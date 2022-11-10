@@ -1,10 +1,10 @@
 # Text input
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (81).png>)
 
 Element that records data into a Word document. The component works correctly only inside the Word Application container.
 
-![](<../../../.gitbook/assets/1 (71).png>)
+![](<../../../.gitbook/assets/1 (84).png>)
 
 Properties
 

@@ -4,11 +4,11 @@ This group contains components necessary for interaction
 
 Open a Browser
 
-![](<../../../.gitbook/assets/0 (31).png>)
+![](<../../../.gitbook/assets/0 (50).png>)
 
 Component that opens a new browser instance.
 
-![](<../../../.gitbook/assets/1 (47).png>)
+![](<../../../.gitbook/assets/1 (12).png>)
 
 Properties
 

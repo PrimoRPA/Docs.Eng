@@ -1,10 +1,10 @@
 # Create file
 
-![](<../../../.gitbook/assets/image (64).png>)
+![](<../../../.gitbook/assets/image (18).png>)
 
 Element creating a new file
 
-![](<../../../.gitbook/assets/1 (109).png>)
+![](<../../../.gitbook/assets/1 (123).png>)
 
 Properties
 

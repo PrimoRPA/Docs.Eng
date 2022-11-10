@@ -1,8 +1,8 @@
 # Verify output with operator
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (68).png>)
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../.gitbook/assets/image (115).png>)
 
 
 

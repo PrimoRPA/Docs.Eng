@@ -1,10 +1,10 @@
 # Get text
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (39).png>)
 
 Element that obtains the text of a PDF document
 
-![](<../../../.gitbook/assets/1 (32).png>)
+![](<../../../.gitbook/assets/1 (20).png>)
 
 Properties
 

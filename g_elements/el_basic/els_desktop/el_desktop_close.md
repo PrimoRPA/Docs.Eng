@@ -1,10 +1,10 @@
 # Close application
 
-![](<../../../.gitbook/assets/0 (122).png>)
+![](<../../../.gitbook/assets/0 (80).png>)
 
 Element stopping external applications. The component works correctly only inside the Connect to an Application container.
 
-![](<../../../.gitbook/assets/1 (113).png>)
+![](<../../../.gitbook/assets/1 (88).png>)
 
 Properties
 

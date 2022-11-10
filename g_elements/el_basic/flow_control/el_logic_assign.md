@@ -1,10 +1,10 @@
 # Assign
 
-![](<../../../.gitbook/assets/image (72).png>)
+![](<../../../.gitbook/assets/image (70).png>)
 
 Element that assigns data to a given variable
 
-![](<../../../.gitbook/assets/1 (66).png>)
+![](<../../../.gitbook/assets/1 (96).png>)
 
 Properties
 

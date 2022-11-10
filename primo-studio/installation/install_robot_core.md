@@ -6,11 +6,11 @@ Robot Core is a cross-platform version of Primo Robot
 
 1. Open Ubuntu Store
 
-![](<../../.gitbook/assets/image (274).png>)
+![](<../../.gitbook/assets/image (213).png>)
 
 &#x20; 2\. Install .NET Runtime 5.0
 
-![](<../../.gitbook/assets/image (230).png>)
+![](<../../.gitbook/assets/image (157).png>)
 
 3\.  Execute
 
@@ -21,11 +21,11 @@ sudo apt install -y fontconfig libharfbuzz0b libfreetype6
 
 4\. Open robot folder and allow file Primo.Robot to be executable
 
-![](<../../.gitbook/assets/image (135).png>)
+![](<../../.gitbook/assets/image (282).png>)
 
 &#x20; 5\. Open WebDriver folder and allow all files to be executable
 
-![](<../../.gitbook/assets/image (214).png>)
+![](<../../.gitbook/assets/image (187).png>)
 
 &#x20; 6\.  Start robot using terminal. For example:
 

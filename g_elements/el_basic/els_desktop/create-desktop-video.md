@@ -1,6 +1,6 @@
 # Create desktop video
 
-![](<../../../.gitbook/assets/image (192).png>)
+![](<../../../.gitbook/assets/image (207).png>)
 
 
 

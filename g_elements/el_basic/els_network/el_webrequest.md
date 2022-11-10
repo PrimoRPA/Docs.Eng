@@ -1,14 +1,14 @@
 # Web request
 
-![](<../../../.gitbook/assets/image (78).png>)
+![](<../../../.gitbook/assets/image (43).png>)
 
 Element calls the web service via the HTTP protocol.
 
-![](../../../.gitbook/assets/1.png)
+![](<../../../.gitbook/assets/1 (2).png>)
 
-You can edit the properties of an element in a special window or on the Properties panel. The data specified on the Properties panel are the priority. The editing window is used to specify the constant data and does not allow to use C# expressions. To call the editing window you should click ![](<../../../.gitbook/assets/2 (2).png>)button.
+You can edit the properties of an element in a special window or on the Properties panel. The data specified on the Properties panel are the priority. The editing window is used to specify the constant data and does not allow to use C# expressions. To call the editing window you should click ![](../../../.gitbook/assets/2.png)button.
 
-![](<../../../.gitbook/assets/3 (1).png>)
+![](<../../../.gitbook/assets/3 (2).png>)
 
 Properties:
 

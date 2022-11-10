@@ -4,7 +4,7 @@
 
 Element that reads Outlook address book
 
-![](<../../../.gitbook/assets/image (319).png>)
+![](<../../../.gitbook/assets/image (313).png>)
 
 Properties
 

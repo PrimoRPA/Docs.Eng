@@ -1,10 +1,10 @@
 # Type simulate
 
-![](<../../../.gitbook/assets/0 (134).png>)
+![](<../../../.gitbook/assets/0 (81).png>)
 
 Element that simulates text input via the keyboard. The component works correctly only inside the Connect to an Application container.
 
-![](<../../../.gitbook/assets/1 (80).png>)
+![](<../../../.gitbook/assets/1 (77).png>)
 
 Properties
 

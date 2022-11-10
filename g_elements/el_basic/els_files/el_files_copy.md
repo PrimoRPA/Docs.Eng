@@ -1,10 +1,10 @@
 # Copy file
 
-![](<../../../.gitbook/assets/image (80).png>)
+![](<../../../.gitbook/assets/image (48).png>)
 
 Element copying a file
 
-![](<../../../.gitbook/assets/1 (103).png>)
+![](<../../../.gitbook/assets/1 (101).png>)
 
 Properties
 

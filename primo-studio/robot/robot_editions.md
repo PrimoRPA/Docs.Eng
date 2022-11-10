@@ -1,6 +1,6 @@
 # Robot editions
 
-Core edition compatible robot market with sign <img src="../../.gitbook/assets/image (24).png" alt="" data-size="line">  <img src="broken-reference" alt="" data-size="line">&#x20;
+Core edition compatible robot market with sign <img src="../../.gitbook/assets/image (97).png" alt="" data-size="line">  <img src="broken-reference" alt="" data-size="line">&#x20;
 
 |                                        | Standard                                                                                                                 | Enterprise                                                                                                               |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |

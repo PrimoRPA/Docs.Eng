@@ -4,7 +4,7 @@
 
 Element connecting to Outlook
 
-![](<../../../.gitbook/assets/1 (95).png>)
+![](<../../../.gitbook/assets/1 (117).png>)
 
 Properties
 

@@ -1,10 +1,10 @@
 # Remove row
 
-![](<../../../../.gitbook/assets/image (270).png>)
+![](<../../../../.gitbook/assets/image (251).png>)
 
 Element that removes table row
 
-![](<../../../../.gitbook/assets/image (290).png>)
+![](<../../../../.gitbook/assets/image (182).png>)
 
 Properties
 

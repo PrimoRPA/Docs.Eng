@@ -1,10 +1,10 @@
 # Excel workbook
 
-![](<../../../.gitbook/assets/image (81).png>)
+![](<../../../.gitbook/assets/image (8).png>)
 
 Element that connects to the Excel application. If the specified file is missing, a new one will be created.
 
-![](<../../../.gitbook/assets/1 (90).png>)
+![](<../../../.gitbook/assets/1 (93).png>)
 
 Properties
 

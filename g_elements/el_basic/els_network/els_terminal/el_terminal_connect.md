@@ -1,10 +1,10 @@
 # Connect
 
-![](<../../../../.gitbook/assets/image (101).png>)
+![](<../../../../.gitbook/assets/image (25).png>)
 
 Element that connects to the remote terminal server
 
-![](<../../../../.gitbook/assets/1 (22).png>)
+![](<../../../../.gitbook/assets/1 (35).png>)
 
 Properties
 

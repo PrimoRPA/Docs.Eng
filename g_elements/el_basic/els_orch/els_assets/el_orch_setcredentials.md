@@ -1,10 +1,10 @@
 # Set Credentials
 
-![](<../../../../.gitbook/assets/image (88).png>)
+![](<../../../../.gitbook/assets/image (114).png>)
 
 Element setting credentials in the Orchestrator
 
-![](<../../../../.gitbook/assets/1 (102).png>)
+![](<../../../../.gitbook/assets/1 (126).png>)
 
 Properties
 

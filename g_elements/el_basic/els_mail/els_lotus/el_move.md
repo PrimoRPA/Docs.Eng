@@ -2,7 +2,7 @@
 
 Element that moves mail between Lotus Notes folders.
 
-![](<../../../../.gitbook/assets/image (178).png>)
+![](<../../../../.gitbook/assets/image (123).png>)
 
 Properties:
 

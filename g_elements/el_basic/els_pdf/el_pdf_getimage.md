@@ -1,10 +1,10 @@
 # Get image
 
-![](<../../../.gitbook/assets/image (95).png>)
+![](<../../../.gitbook/assets/image (79).png>)
 
 Element that obtains images from a PDF document
 
-![](<../../../.gitbook/assets/1 (52).png>)
+![](<../../../.gitbook/assets/1 (44).png>)
 
 Properties
 

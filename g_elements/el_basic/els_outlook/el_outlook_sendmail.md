@@ -1,10 +1,10 @@
 # Send message
 
-![](<../../../.gitbook/assets/0 (125).png>)
+![](<../../../.gitbook/assets/0 (127).png>)
 
 Element that sends e-mail messages via Outlook. The component works correctly only inside the Outlook application container.
 
-![](<../../../.gitbook/assets/1 (133).png>)
+![](<../../../.gitbook/assets/1 (121).png>)
 
 Properties
 

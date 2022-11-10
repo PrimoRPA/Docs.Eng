@@ -1,10 +1,10 @@
 # Table filter
 
-![](<../../../.gitbook/assets/image (254).png>)
+![](<../../../.gitbook/assets/image (223).png>)
 
 Element that filters data table.
 
-![](<../../../.gitbook/assets/image (337).png>)
+![](<../../../.gitbook/assets/image (336).png>)
 
 Properties:
 

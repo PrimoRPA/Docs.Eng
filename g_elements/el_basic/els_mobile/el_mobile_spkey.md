@@ -1,10 +1,10 @@
 # Press hot-key
 
-![](<../../../.gitbook/assets/0 (127).png>)
+![](<../../../.gitbook/assets/0 (102).png>)
 
 Element activating the special button. The component works correctly only inside the Connect to a Device container.
 
-![](<../../../.gitbook/assets/1 (117).png>)
+![](<../../../.gitbook/assets/1 (89).png>)
 
 Properties
 

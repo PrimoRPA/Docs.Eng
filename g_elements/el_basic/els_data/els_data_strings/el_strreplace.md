@@ -1,10 +1,10 @@
 # Replace substring
 
-![](<../../../../.gitbook/assets/image (223).png>)
+![](<../../../../.gitbook/assets/image (118).png>)
 
 Element that replaces substring with given string.
 
-![](<../../../../.gitbook/assets/image (194).png>)
+![](<../../../../.gitbook/assets/image (141).png>)
 
 Properties
 

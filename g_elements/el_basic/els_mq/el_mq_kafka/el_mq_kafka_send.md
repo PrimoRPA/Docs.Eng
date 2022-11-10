@@ -1,6 +1,6 @@
 # Send message
 
-![](<../../../../.gitbook/assets/image (58).png>)
+![](<../../../../.gitbook/assets/image (13).png>)
 
 Element that sends message to Kafka server.
 

@@ -1,10 +1,10 @@
 # Set Credentials
 
-![](<../../../.gitbook/assets/0 (54).png>)
+![](<../../../.gitbook/assets/0 (55).png>)
 
 Element that creates credentials in the Credential Manager.
 
-![](<../../../.gitbook/assets/1 (46).png>)
+![](<../../../.gitbook/assets/1 (48).png>)
 
 Properties
 

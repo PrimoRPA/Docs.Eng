@@ -1,10 +1,10 @@
 # Add column
 
-![](<../../../../.gitbook/assets/image (219).png>)
+![](<../../../../.gitbook/assets/image (211).png>)
 
 Element that add column to table.
 
-![](<../../../../.gitbook/assets/image (227).png>)
+![](<../../../../.gitbook/assets/image (165).png>)
 
 Properties
 

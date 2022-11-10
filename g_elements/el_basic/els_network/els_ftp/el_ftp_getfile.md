@@ -1,6 +1,6 @@
 # Download FTP file
 
-![](<../../../../.gitbook/assets/image (55).png>)
+![](<../../../../.gitbook/assets/image (60).png>)
 
 \
 Element that receive file from FTP(S) server.​

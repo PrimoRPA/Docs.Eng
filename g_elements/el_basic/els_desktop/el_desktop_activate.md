@@ -1,10 +1,10 @@
 # Activate window
 
-![](<../../../.gitbook/assets/0 (72).png>)
+![](<../../../.gitbook/assets/0 (106).png>)
 
 Element that brings the process window to the fore. The component works correctly only inside the Connect to an Application container.
 
-![](<../../../.gitbook/assets/1 (128).png>)
+![](<../../../.gitbook/assets/1 (122).png>)
 
 Properties
 

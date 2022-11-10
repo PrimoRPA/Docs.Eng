@@ -1,6 +1,6 @@
 # Sandbox
 
-![](<../../.gitbook/assets/image (183).png>)
+![](<../../.gitbook/assets/image (234).png>)
 
 **Windows Sandbox installation**
 
@@ -18,7 +18,7 @@
 
 To run a process in sandbox you need to use a Process link element. To execute in a sandbox mode check the property Run in SandBox
 
-![](<../../.gitbook/assets/image (138).png>)
+![](<../../.gitbook/assets/image (154).png>)
 
 **IMPORTANT! Robots may interchange only simple data (String, Double, DateTime, Boolean etc) or simple data collections (List\<String>, List\<DateTime> etc)**
 

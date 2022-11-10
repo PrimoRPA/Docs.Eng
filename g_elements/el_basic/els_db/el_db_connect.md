@@ -1,10 +1,10 @@
 # Connect
 
-![](<../../../.gitbook/assets/image (229).png>)
+![](<../../../.gitbook/assets/image (169).png>)
 
 Element that connects to the database.
 
-![](<../../../.gitbook/assets/1 (24).png>)
+![](<../../../.gitbook/assets/1 (34).png>)
 
 Properties
 

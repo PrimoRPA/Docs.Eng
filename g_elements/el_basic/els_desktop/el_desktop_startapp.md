@@ -6,7 +6,7 @@
 
 Element that starts new application process
 
-![](<../../../.gitbook/assets/image (310).png>)
+![](<../../../.gitbook/assets/image (318).png>)
 
 Properties
 

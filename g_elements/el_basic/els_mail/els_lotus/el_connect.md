@@ -2,7 +2,7 @@
 
 Element that connects to Lotus Notes.
 
-![](<../../../../.gitbook/assets/image (117).png>)
+![](<../../../../.gitbook/assets/image (279).png>)
 
 Properties:
 

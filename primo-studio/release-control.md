@@ -8,7 +8,7 @@ To save versiom in Git local storage use Commit menu.
 
 "Commit" button opens the dialog of the Git local storage selection. "Commit and push" button displays a dialog for selecting remote Git storage (Git, GitHub, TFS, etc.).
 
-![](../.gitbook/assets/remote.jpg)
+![](<../.gitbook/assets/remote (1).jpg>)
 
 "Use credentials" menu uses credentials of the current operating system user.&#x20;
 
@@ -30,11 +30,11 @@ To cancel all changes made until the last Commit, click the "Undo pending change
 
 In order to compare local version with repository version you should right-click the file in Project tree and choose Show changes menu.
 
-![](<../.gitbook/assets/image (182).png>)
+![](<../.gitbook/assets/image (148).png>)
 
 "View commits" button is used to roll back to the specified version. To roll back you should select the version, right-click on it and select "Use".&#x20;
 
-![](<../.gitbook/assets/commit2 (1).jpg>)
+![](../.gitbook/assets/commit2.jpg)
 
 "Branches" button in Git menu is used to manage repository branches. To create the branch press the <img src="../.gitbook/assets/add branch.png" alt="" data-size="line"> button. To delete the branch select it and press the <img src="../.gitbook/assets/delete branch.png" alt="" data-size="line"> button.  To manage branch states select the branch you need , right-click on it, and select Checkout, Rebase or Merge from the menu.&#x20;
 

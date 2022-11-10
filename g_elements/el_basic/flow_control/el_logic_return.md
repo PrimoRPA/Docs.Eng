@@ -1,7 +1,7 @@
 # Exit sequence
 
-![](<../../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (61).png>)
 
 Element that exits current sequence
 
-![](<../../../.gitbook/assets/image (325).png>)
+![](<../../../.gitbook/assets/image (319).png>)

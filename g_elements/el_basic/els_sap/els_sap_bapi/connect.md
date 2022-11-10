@@ -2,7 +2,7 @@
 
 Component that connects to the SAP BAPI services
 
-![](<../../../../.gitbook/assets/image (261).png>)
+![](<../../../../.gitbook/assets/image (304).png>)
 
 Properties
 

@@ -1,6 +1,6 @@
 # Delete range
 
-![](<../../../.gitbook/assets/image (35).png>)
+![](<../../../.gitbook/assets/image (59).png>)
 
 Element that removes cell range from Excel workbook
 

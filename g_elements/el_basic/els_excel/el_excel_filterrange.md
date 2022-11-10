@@ -1,6 +1,6 @@
 # Filter range
 
-![](<../../../.gitbook/assets/image (91).png>)
+![](<../../../.gitbook/assets/image (19).png>)
 
 Element that creates Excel cell range filter.
 

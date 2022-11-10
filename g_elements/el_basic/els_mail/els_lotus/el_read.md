@@ -2,7 +2,7 @@
 
 Element that read mail from Lotus Notes.
 
-![](<../../../../.gitbook/assets/image (296).png>)
+![](<../../../../.gitbook/assets/image (146).png>)
 
 Properties:
 

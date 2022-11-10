@@ -1,10 +1,10 @@
 # Insert image
 
-![](<../../../.gitbook/assets/image (44).png>)
+![](<../../../.gitbook/assets/image (50).png>)
 
 Element that inserts image into Word document
 
-![](<../../../.gitbook/assets/image (309).png>)
+![](<../../../.gitbook/assets/image (310).png>)
 
 Properties
 

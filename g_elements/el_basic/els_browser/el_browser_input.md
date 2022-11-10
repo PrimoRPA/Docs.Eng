@@ -1,10 +1,10 @@
 # Text input
 
-![](<../../../.gitbook/assets/image (137).png>)
+![](<../../../.gitbook/assets/image (210).png>)
 
 Element that enters text in a selected control element. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 
-![](<../../../.gitbook/assets/1 (54).png>)
+![](<../../../.gitbook/assets/1 (27).png>)
 
 Properties
 

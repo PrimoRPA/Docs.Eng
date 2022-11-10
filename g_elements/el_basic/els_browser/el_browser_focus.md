@@ -1,10 +1,10 @@
 # Set focus
 
-![](<../../../.gitbook/assets/image (216).png>)
+![](<../../../.gitbook/assets/image (240).png>)
 
 Element that sets the input focus on a selected control element. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 
-![](<../../../.gitbook/assets/1 (8).png>)
+![](<../../../.gitbook/assets/1 (28).png>)
 
 Properties
 

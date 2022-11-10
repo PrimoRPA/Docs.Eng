@@ -1,12 +1,12 @@
 # Image exists
 
-![](<../../../.gitbook/assets/0 (12).png>)
+![](<../../../.gitbook/assets/0 (58).png>)
 
 Element that searches for a given image on the screen.
 
 In the case where the value of a sought image is not specified, the image is taken from the screenshot of element.
 
-![](<../../../.gitbook/assets/1 (15).png>)
+![](<../../../.gitbook/assets/1 (11).png>)
 
 Properties:
 

@@ -1,8 +1,8 @@
 # Verify expression
 
-![](<../../../.gitbook/assets/image (46).png>)
+![](<../../../.gitbook/assets/image (66).png>)
 
-![](<../../../.gitbook/assets/image (107).png>)
+![](<../../../.gitbook/assets/image (14).png>)
 
 
 

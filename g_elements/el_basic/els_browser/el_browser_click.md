@@ -1,10 +1,10 @@
 # Mouse click
 
-![](<../../../.gitbook/assets/image (205).png>)
+![](<../../../.gitbook/assets/image (135).png>)
 
 Element that mouse-clicks a selected control element. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 
-![](<../../../.gitbook/assets/1 (30).png>)
+![](<../../../.gitbook/assets/1 (1).png>)
 
 Properties
 

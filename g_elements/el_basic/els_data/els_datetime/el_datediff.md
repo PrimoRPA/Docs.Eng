@@ -1,10 +1,10 @@
 # Date diff
 
-![](<../../../../.gitbook/assets/image (301).png>)
+![](<../../../../.gitbook/assets/image (219).png>)
 
 Element that gets difference between two dates.
 
-![](<../../../../.gitbook/assets/image (221).png>)
+![](<../../../../.gitbook/assets/image (147).png>)
 
 Properties
 

@@ -1,10 +1,10 @@
 # Attach application
 
-![](<../../../.gitbook/assets/0 (102).png>)
+![](<../../../.gitbook/assets/0 (66).png>)
 
 Element that connects an external application to an existing process.
 
-![](<../../../.gitbook/assets/1 (131).png>)
+![](<../../../.gitbook/assets/1 (87).png>)
 
 Properties
 

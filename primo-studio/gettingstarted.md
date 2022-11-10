@@ -2,19 +2,19 @@
 
 After a successful launch, the main welcome window will appear on the screen.
 
-![](<../.gitbook/assets/0 (51).png>)
+![](<../.gitbook/assets/0 (11).png>)
 
 From this window you can create a new project, open an existing one or select one of the last projects you have been working with. If the "Show on startup" checkbox is unchecked, this window will no longer appear.
 
 After closing the welcome window, the studio window will be available.
 
-![](<../.gitbook/assets/1 (5).png>)
+![](<../.gitbook/assets/1 (40).png>)
 
 The following components are present in the window:
 
 Application Main Menu
 
-![](<../.gitbook/assets/2 (11).png>)
+![](<../.gitbook/assets/2 (8).png>)
 
 This menu contains the following items:
 
@@ -84,7 +84,7 @@ Help
 
 Action Panel
 
-![](<../.gitbook/assets/image (314).png>)
+![](<../.gitbook/assets/image (330).png>)
 
 This panels contains the following buttons:
 
@@ -113,7 +113,7 @@ This panels contains the following buttons:
 
 Project Panel
 
-![](<../.gitbook/assets/4 (4).png>)
+![](<../.gitbook/assets/4 (11).png>)
 
 This panel contains the following buttons։
 
@@ -129,27 +129,27 @@ Elements panel
 
 Main Working Area
 
-![](<../.gitbook/assets/6 (3).png>)
+![](<../.gitbook/assets/6 (4).png>)
 
 Properties Panel
 
-![](<../.gitbook/assets/7 (3).png>)
+![](<../.gitbook/assets/7 (8).png>)
 
 Traffic Interception Panel
 
-![](<../.gitbook/assets/8 (8).png>)
+![](<../.gitbook/assets/8 (9).png>)
 
 Packet Properties Panel
 
-![](<../.gitbook/assets/9 (8).png>)
+![](<../.gitbook/assets/9 (4).png>)
 
 Traffic Filter Panel
 
-![](<../.gitbook/assets/10 (4).png>)
+![](<../.gitbook/assets/10 (1).png>)
 
 Smart Devices Panel
 
-![](<../.gitbook/assets/11 (1).png>)
+![](../.gitbook/assets/11.png)
 
 UI Inspector Panel
 

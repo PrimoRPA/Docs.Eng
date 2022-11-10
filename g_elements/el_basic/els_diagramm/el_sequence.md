@@ -1,6 +1,6 @@
 # Sequence
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (29).png>)
 
 Sequence container
 

@@ -1,10 +1,10 @@
 # Element exists
 
-![](<../../../.gitbook/assets/image (252).png>)
+![](<../../../.gitbook/assets/image (271).png>)
 
 Element that searches for a control element. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 
-![](<../../../.gitbook/assets/1 (11).png>)
+![](<../../../.gitbook/assets/1 (31).png>)
 
 Properties
 

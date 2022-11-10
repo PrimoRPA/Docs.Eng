@@ -1,6 +1,6 @@
 # Yandex Vision OCR
 
-![](<../../../.gitbook/assets/image (61).png>)
+![](<../../../.gitbook/assets/image (15).png>)
 
 ![](https://gblobscdn.gitbook.com/assets%2Fprimo-rpa%2F-M-fb5hgZC4boHei6jQF%2F-M-fbK4PjBkkLS\_hLbrS%2F1.png?generation=1581279695805693\&alt=media)
 

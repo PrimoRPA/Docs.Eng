@@ -1,10 +1,10 @@
 # Get Credentials
 
-![](<../../../../.gitbook/assets/image (17).png>)
+![](<../../../../.gitbook/assets/image (96).png>)
 
 Element getting credentials from the Orchestrator.
 
-![](<../../../../.gitbook/assets/1 (55).png>)
+![](<../../../../.gitbook/assets/1 (25).png>)
 
 Properties
 

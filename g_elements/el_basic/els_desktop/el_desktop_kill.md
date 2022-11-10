@@ -1,10 +1,10 @@
 # Kill application
 
-![](<../../../.gitbook/assets/0 (104).png>)
+![](<../../../.gitbook/assets/0 (118).png>)
 
 Element that performs the forced termination of an external application.
 
-![](<../../../.gitbook/assets/1 (72).png>)
+![](<../../../.gitbook/assets/1 (73).png>)
 
 Properties
 

@@ -1,10 +1,10 @@
 # Delete file/folder
 
-![](<../../../.gitbook/assets/image (73).png>)
+![](<../../../.gitbook/assets/image (111).png>)
 
 Element deleting a file
 
-![](<../../../.gitbook/assets/1 (97).png>)
+![](<../../../.gitbook/assets/1 (109).png>)
 
 Properties
 

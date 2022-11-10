@@ -1,10 +1,10 @@
 # Get text
 
-![](<../../../.gitbook/assets/image (201).png>)
+![](<../../../.gitbook/assets/image (136).png>)
 
 Element that obtains the text of a selected control element. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 
-![](<../../../.gitbook/assets/1 (6).png>)
+![](<../../../.gitbook/assets/1 (53).png>)
 
 Properties
 

@@ -1,10 +1,10 @@
 # Minimize window
 
-![](<../../../.gitbook/assets/0 (118).png>)
+![](<../../../.gitbook/assets/0 (85).png>)
 
 Element minimizing the application window. Component works correctly only inside the Connect to an Application container.
 
-![](<../../../.gitbook/assets/1 (82).png>)
+![](<../../../.gitbook/assets/1 (103).png>)
 
 Properties
 

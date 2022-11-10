@@ -1,12 +1,12 @@
 # Image click
 
-![](<../../../.gitbook/assets/0 (33).png>)
+![](../../../.gitbook/assets/0.png)
 
 Element that makes a mouse click on a given image.
 
 In the case where the value of a given image is not specified, the image is taken from the screenshot of a component.
 
-![](<../../../.gitbook/assets/1 (21).png>)
+![](<../../../.gitbook/assets/1 (7).png>)
 
 Properties:
 

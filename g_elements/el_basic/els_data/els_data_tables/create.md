@@ -1,10 +1,10 @@
 # Create table
 
-![](<../../../../.gitbook/assets/image (202).png>)
+![](<../../../../.gitbook/assets/image (124).png>)
 
 Element that creates new data table.
 
-![](<../../../../.gitbook/assets/image (155).png>)
+![](<../../../../.gitbook/assets/image (181).png>)
 
 Properties
 

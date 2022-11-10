@@ -1,6 +1,6 @@
 # Send to FTP
 
-![](<../../../../.gitbook/assets/image (113).png>)
+![](<../../../../.gitbook/assets/image (31).png>)
 
 Element that sends the file to server by FTP(S) protocol
 

@@ -1,12 +1,12 @@
 # UI inspector
 
-To study the interface structure of Windows desktop applications, Primo Studio has the UI Inspector panel. To start working, you should click the "Update the Tree" button ![](<../.gitbook/assets/0 (65).png>). After clicking the button, the inspector will start to inspect all running applications and display the application structures that have a graphical interface. The left part of the panel displays the control tree.
+To study the interface structure of Windows desktop applications, Primo Studio has the UI Inspector panel. To start working, you should click the "Update the Tree" button ![](<../.gitbook/assets/0 (84).png>). After clicking the button, the inspector will start to inspect all running applications and display the application structures that have a graphical interface. The left part of the panel displays the control tree.
 
-![](<../.gitbook/assets/1 (119).png>)
+![](<../.gitbook/assets/1 (133).png>)
 
 When a controller is selected, its attributes will be displayed on the right side of the screen.
 
-![](<../.gitbook/assets/2 (18).png>)
+![](<../.gitbook/assets/2 (14).png>)
 
 This information is convenient to use when building templates for searching for elements of desktop applications.
 

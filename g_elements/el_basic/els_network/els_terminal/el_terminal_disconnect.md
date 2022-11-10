@@ -1,10 +1,10 @@
 # Disconnect
 
-![](<../../../../.gitbook/assets/image (68).png>)
+![](<../../../../.gitbook/assets/image (64).png>)
 
 Element that performs disconnection from the terminal server
 
-![](<../../../../.gitbook/assets/1 (34).png>)
+![](<../../../../.gitbook/assets/1 (29).png>)
 
 Properties
 

@@ -1,10 +1,10 @@
 # Add row
 
-![](<../../../../.gitbook/assets/image (272).png>)
+![](<../../../../.gitbook/assets/image (216).png>)
 
 Element that adds new row to table.
 
-![](<../../../../.gitbook/assets/image (244).png>)
+![](<../../../../.gitbook/assets/image (215).png>)
 
 Properties
 

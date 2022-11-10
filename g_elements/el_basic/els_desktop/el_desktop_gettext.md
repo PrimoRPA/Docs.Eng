@@ -1,10 +1,10 @@
 # Get text
 
-![](<../../../.gitbook/assets/0 (100).png>)
+![](<../../../.gitbook/assets/0 (71).png>)
 
 Element getting the text of a selected control element. The component works correctly only inside the Connect to an Application container.
 
-![](<../../../.gitbook/assets/1 (118).png>)
+![](<../../../.gitbook/assets/1 (68).png>)
 
 Properties
 

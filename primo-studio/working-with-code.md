@@ -2,7 +2,7 @@
 
 In order to work with you code you need to use the code editor in Studio
 
-![](<../.gitbook/assets/image (200).png>)
+![](<../.gitbook/assets/image (227).png>)
 
 Depending on the syntax you've chosen the code rules will differ. For example in C# code you'll automatically get \_\_debug variable for interactions with built-in debugger. Furthermore there are several special rules:
 
@@ -13,9 +13,9 @@ Depending on the syntax you've chosen the code rules will differ. For example in
 
 Code also supports arguments. You can work with Arguments the same ways as in any other process type.
 
-In order to add a breakpoint you should press <img src="../.gitbook/assets/image (228).png" alt="" data-size="line"> button. After that you'll get special code string at you caret point. Important! Python and JavaScript debug function got last parameter with gets the breakpoint code number.
+In order to add a breakpoint you should press <img src="../.gitbook/assets/image (232).png" alt="" data-size="line"> button. After that you'll get special code string at you caret point. Important! Python and JavaScript debug function got last parameter with gets the breakpoint code number.
 
-To create selectors you may use <img src="../.gitbook/assets/image (134).png" alt="" data-size="line"> buttons. To edit a selector, you need to select it's string in the code and press the button.
+To create selectors you may use <img src="../.gitbook/assets/image (285).png" alt="" data-size="line"> buttons. To edit a selector, you need to select it's string in the code and press the button.
 
 To work with elements you should drag n drop the element you need into the code after that you'll get code snippet for your element.
 

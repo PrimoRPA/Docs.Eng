@@ -1,10 +1,10 @@
 # Power Shell
 
-![](<../../../.gitbook/assets/0 (86).png>)
+![](<../../../.gitbook/assets/0 (124).png>)
 
 Element that executes the PowerShell script.
 
-![](<../../../.gitbook/assets/1 (94).png>)
+![](<../../../.gitbook/assets/1 (66).png>)
 
 Properties
 

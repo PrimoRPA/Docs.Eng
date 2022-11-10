@@ -1,10 +1,10 @@
 # Text input
 
-![](<../../../.gitbook/assets/0 (49).png>)
+![](<../../../.gitbook/assets/0 (61).png>)
 
 Element that enters text in a selected control element. The component works correctly only inside the SAP container.
 
-![](<../../../.gitbook/assets/1 (53).png>)
+![](<../../../.gitbook/assets/1 (52).png>)
 
 Properties
 

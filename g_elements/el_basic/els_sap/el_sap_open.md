@@ -1,10 +1,10 @@
 # Open SAP
 
-![](<../../../.gitbook/assets/0 (39).png>)
+![](<../../../.gitbook/assets/0 (23).png>)
 
 Element that connects to SAP Front End.
 
-![](<../../../.gitbook/assets/1 (25).png>)
+![](<../../../.gitbook/assets/1 (41).png>)
 
 **Notice! This element works correctly in robot x86 only!**
 

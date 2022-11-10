@@ -1,6 +1,6 @@
 # Update mapping
 
-![](<../../../../.gitbook/assets/image (288).png>)
+![](<../../../../.gitbook/assets/image (233).png>)
 
 Updates variable values from arguments of a sequence being called.
 

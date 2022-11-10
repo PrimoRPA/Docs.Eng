@@ -1,10 +1,10 @@
 # Get attribute
 
-![](<../../../.gitbook/assets/image (174).png>)
+![](<../../../.gitbook/assets/image (177).png>)
 
 Element that obtains the data of a control element attribute. The component works correctly only inside the Open a Browser or Connect to a Browser container.
 
-![](<../../../.gitbook/assets/1 (45).png>)
+![](<../../../.gitbook/assets/1 (56).png>)
 
 Properties
 

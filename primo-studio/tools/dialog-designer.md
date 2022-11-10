@@ -2,7 +2,7 @@
 
 Dialog designer creates user dialogs b works with Custom form group elements
 
-![](<../../.gitbook/assets/image (130).png>)
+![](<../../.gitbook/assets/image (172).png>)
 
 To add new element drag and drop it from Elements panel to your form.
 

@@ -1,10 +1,10 @@
 # ForEach
 
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (5).png>)
 
 Component-cycle that goes through all values of the selected array
 
-![](<../../../.gitbook/assets/1 (110).png>)
+![](<../../../.gitbook/assets/1 (127).png>)
 
 Properties
 

@@ -1,10 +1,10 @@
 # Maximize window
 
-![](<../../../.gitbook/assets/0 (115).png>)
+![](<../../../.gitbook/assets/0 (68).png>)
 
 Element maximizing the application window. The component works correctly only inside the Connect to an Application container.
 
-![](<../../../.gitbook/assets/1 (99).png>)
+![](<../../../.gitbook/assets/1 (106).png>)
 
 Properties
 

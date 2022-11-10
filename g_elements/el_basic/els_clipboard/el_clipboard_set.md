@@ -1,10 +1,10 @@
 # Copy to clipboard
 
-![](<../../../.gitbook/assets/0 (64).png>)
+![](<../../../.gitbook/assets/0 (33).png>)
 
 Element sending text to the Clipboard.
 
-![](<../../../.gitbook/assets/1 (59).png>)
+![](<../../../.gitbook/assets/1 (32).png>)
 
 Properties
 

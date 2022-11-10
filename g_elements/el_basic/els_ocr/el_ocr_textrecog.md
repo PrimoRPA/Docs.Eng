@@ -1,10 +1,10 @@
 # Text recognition
 
-![](<../../../.gitbook/assets/image (104).png>)
+![](<../../../.gitbook/assets/image (89).png>)
 
 Element that OCR-recognizes text of given image. If image is not supplied the full screen recognition is executed.
 
-![](<../../../.gitbook/assets/1 (27).png>)
+![](<../../../.gitbook/assets/1 (30).png>)
 
 Properties
 

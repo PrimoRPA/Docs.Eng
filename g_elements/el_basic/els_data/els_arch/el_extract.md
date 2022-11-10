@@ -1,10 +1,10 @@
 # Extract archive
 
-![](<../../../../.gitbook/assets/image (154).png>)
+![](<../../../../.gitbook/assets/image (196).png>)
 
 Component, that extracts archive to folder
 
-![](<../../../../.gitbook/assets/image (120).png>)
+![](<../../../../.gitbook/assets/image (247).png>)
 
 Properties
 

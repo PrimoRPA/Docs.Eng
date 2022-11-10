@@ -1,10 +1,10 @@
 # Get Asset
 
-![](<../../../../.gitbook/assets/image (106).png>)
+![](<../../../../.gitbook/assets/image (49).png>)
 
 Element getting a value from the Orchestrator
 
-![](<../../../../.gitbook/assets/1 (51).png>)
+![](<../../../../.gitbook/assets/1 (15).png>)
 
 Properties
 

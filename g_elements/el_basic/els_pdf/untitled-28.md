@@ -1,10 +1,10 @@
 # Page count
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (73).png>)
 
 Element that reads the number of pages of a PDF document
 
-![](<../../../.gitbook/assets/1 (26).png>)
+![](<../../../.gitbook/assets/1 (17).png>)
 
 Properties
 

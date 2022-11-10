@@ -1,10 +1,10 @@
 # Create archive
 
-![](<../../../../.gitbook/assets/image (246).png>)
+![](<../../../../.gitbook/assets/image (209).png>)
 
 Component creating a new archive
 
-![](<../../../../.gitbook/assets/image (149).png>)
+![](<../../../../.gitbook/assets/image (138).png>)
 
 Properties
 

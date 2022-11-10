@@ -1,10 +1,10 @@
 # Wait
 
-![](<../../../.gitbook/assets/image (66).png>)
+![](<../../../.gitbook/assets/image (17).png>)
 
 Element that stops the process for a specified number of milliseconds.
 
-![](<../../../.gitbook/assets/1 (108).png>)
+![](<../../../.gitbook/assets/1 (67).png>)
 
 Properties
 

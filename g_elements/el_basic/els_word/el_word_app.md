@@ -1,10 +1,10 @@
 # Word document
 
-![](<../../../.gitbook/assets/image (53).png>)
+![](<../../../.gitbook/assets/image (20).png>)
 
 Element connecting to the Word application. If the specified file is missing, a new one will be created.
 
-![](<../../../.gitbook/assets/1 (126).png>)
+![](<../../../.gitbook/assets/1 (124).png>)
 
 Properties
 

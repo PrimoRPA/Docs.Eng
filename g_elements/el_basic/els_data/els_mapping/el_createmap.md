@@ -1,6 +1,6 @@
 # Create mapping
 
-![](<../../../../.gitbook/assets/image (242).png>)
+![](<../../../../.gitbook/assets/image (120).png>)
 
 Maps variables to arguments of a sequence being called.
 

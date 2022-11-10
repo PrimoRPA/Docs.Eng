@@ -1,10 +1,10 @@
 # Attach browser
 
-![](<../../../.gitbook/assets/0 (41).png>)
+![](<../../../.gitbook/assets/0 (15).png>)
 
 Element that connects to a valid browser.
 
-![](<../../../.gitbook/assets/1 (36).png>)
+![](<../../../.gitbook/assets/1 (42).png>)
 
 Properties
 

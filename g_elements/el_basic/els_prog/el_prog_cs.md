@@ -1,10 +1,10 @@
 # C# Script
 
-![](<../../../.gitbook/assets/image (43).png>)
+![](<../../../.gitbook/assets/image (101).png>)
 
 Element executing a script in C#
 
-![](<../../../.gitbook/assets/1 (85).png>)
+![](<../../../.gitbook/assets/1 (134).png>)
 
 Properties
 

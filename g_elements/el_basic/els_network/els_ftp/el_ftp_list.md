@@ -1,6 +1,6 @@
 # List FTP files
 
-![](<../../../../.gitbook/assets/image (105).png>)
+![](<../../../../.gitbook/assets/image (26).png>)
 
 Element that gets FTP(S) files list.
 

@@ -1,10 +1,10 @@
 # Cast to string
 
-![](<../../../../.gitbook/assets/image (204).png>)
+![](<../../../../.gitbook/assets/image (276).png>)
 
 Element that casts given object string.
 
-![](<../../../../.gitbook/assets/image (226).png>)
+![](<../../../../.gitbook/assets/image (260).png>)
 
 Properties
 

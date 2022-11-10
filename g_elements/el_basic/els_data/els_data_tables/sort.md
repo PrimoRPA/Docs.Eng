@@ -1,10 +1,10 @@
 # Sort table
 
-![](<../../../../.gitbook/assets/image (169).png>)
+![](<../../../../.gitbook/assets/image (243).png>)
 
 Element that sorts table
 
-![](<../../../../.gitbook/assets/image (251).png>)
+![](<../../../../.gitbook/assets/image (250).png>)
 
 Properties
 

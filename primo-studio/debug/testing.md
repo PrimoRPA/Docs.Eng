@@ -10,7 +10,7 @@ Verify output with operator is more complex element. This element executes suppl
 
 Test data source is a part of the project and specifies in process properties
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (71).png>)
 
 
 
@@ -25,7 +25,7 @@ In order to get a value from the file you need to use Get next local test data e
 
 You may create test data file manually or using current variables values by clicking Process -> Dump variables menu and setting path to test data file in a window
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (78).png>)
 
 
 
@@ -33,6 +33,6 @@ You may create test data file manually or using current variables values by clic
 
 Mock element has two containers: Element and Mock
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (87).png>)
 
 Element container executes if the mock is turned off and Mock container executes if on. Turning the mock on and off is available through it's properties or by clicking <img src="../../.gitbook/assets/WFMock.png" alt="" data-size="line"> button in Studio menu.

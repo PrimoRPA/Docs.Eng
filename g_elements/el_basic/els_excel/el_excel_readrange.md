@@ -1,10 +1,10 @@
 # Read range
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (63).png>)
 
 Element getting data from the Excel cell range. The component works correctly only inside the Excel application container.
 
-![](<../../../.gitbook/assets/1 (83).png>)
+![](<../../../.gitbook/assets/1 (69).png>)
 
 
 

@@ -1,10 +1,10 @@
 # Get Credentials
 
-![](<../../../.gitbook/assets/0 (14).png>)
+![](<../../../.gitbook/assets/0 (7).png>)
 
 Element reading the Credential Manager data
 
-![](<../../../.gitbook/assets/1 (37).png>)
+![](<../../../.gitbook/assets/1 (3).png>)
 
 Properties
 

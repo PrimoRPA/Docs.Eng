@@ -1,10 +1,10 @@
 # Execute query
 
-![](<../../../.gitbook/assets/image (277).png>)
+![](<../../../.gitbook/assets/image (201).png>)
 
 Element that adds a new element to the collection. Waiting for results implies that query should return the data. The component works correctly only inside the Connect to the Database container.
 
-![](<../../../.gitbook/assets/1 (28).png>)
+![](<../../../.gitbook/assets/1 (45).png>)
 
 Properties
 

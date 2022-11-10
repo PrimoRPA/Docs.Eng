@@ -1,10 +1,10 @@
 # Table to CSV
 
-![](<../../../.gitbook/assets/image (217).png>)
+![](<../../../.gitbook/assets/image (283).png>)
 
 Exports table to CSV.
 
-![](<../../../.gitbook/assets/image (335).png>)
+![](<../../../.gitbook/assets/image (316).png>)
 
 Properties:
 

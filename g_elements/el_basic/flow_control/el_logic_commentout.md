@@ -1,10 +1,10 @@
 # Comment out
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 Element that blocks the execution of the components that make up it.
 
-![](<../../../.gitbook/assets/1 (65).png>)
+![](<../../../.gitbook/assets/1 (111).png>)
 
 Properties
 

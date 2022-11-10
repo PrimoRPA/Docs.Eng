@@ -2,7 +2,7 @@
 
 Element that processes documents using FlexiCapture server
 
-![](<../../../../.gitbook/assets/image (203).png>)
+![](<../../../../.gitbook/assets/image (267).png>)
 
 * Project\*: \[String] Project name
 * Batch\*: \[String] Batch name

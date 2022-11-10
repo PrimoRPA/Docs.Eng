@@ -4,7 +4,7 @@ Assistant group elements help you creating interactive hints for your Web or Des
 
 Hint window consists of the following:
 
-![](<../../../.gitbook/assets/image (144).png>)
+![](<../../../.gitbook/assets/image (137).png>)
 
 
 

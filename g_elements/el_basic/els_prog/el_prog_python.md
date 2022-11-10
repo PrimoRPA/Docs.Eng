@@ -1,6 +1,6 @@
 # Python Script
 
-![](<../../../.gitbook/assets/image (54).png>)
+![](<../../../.gitbook/assets/image (10).png>)
 
 Element executing a script in Python
 

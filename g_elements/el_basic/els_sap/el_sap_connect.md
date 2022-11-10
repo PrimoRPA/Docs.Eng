@@ -1,10 +1,10 @@
 # Attach SAP
 
-![](<../../../.gitbook/assets/0 (11).png>)
+![](<../../../.gitbook/assets/0 (2).png>)
 
 Element that connects to the opened SAP Front End application.
 
-![](<../../../.gitbook/assets/1 (56).png>)
+![](<../../../.gitbook/assets/1 (59).png>)
 
 Properties
 

@@ -1,10 +1,10 @@
 # Substring exists
 
-![](<../../../../.gitbook/assets/image (307).png>)
+![](<../../../../.gitbook/assets/image (140).png>)
 
 Element that searches index of substring inside given string. Results -1 if substring was not found.
 
-![](<../../../../.gitbook/assets/image (211).png>)
+![](<../../../../.gitbook/assets/image (221).png>)
 
 Properties
 

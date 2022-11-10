@@ -1,10 +1,10 @@
 # Control exists
 
-![](<../../../.gitbook/assets/0 (45).png>)
+![](<../../../.gitbook/assets/0 (27).png>)
 
 Element that searches for a control element. The component works correctly only inside the SAP container.
 
-![](<../../../.gitbook/assets/1 (10).png>)
+![](<../../../.gitbook/assets/1 (62).png>)
 
 Properties
 

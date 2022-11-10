@@ -1,8 +1,8 @@
 # Process documents
 
-![](<../../../../.gitbook/assets/image (8).png>)
+![](<../../../../.gitbook/assets/image (76).png>)
 
-![](<../../../../.gitbook/assets/image (158).png>)
+![](<../../../../.gitbook/assets/image (152).png>)
 
 
 

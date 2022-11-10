@@ -1,6 +1,6 @@
 # Show hint
 
-![](<../../../.gitbook/assets/image (129).png>)
+![](<../../../.gitbook/assets/image (231).png>)
 
 
 

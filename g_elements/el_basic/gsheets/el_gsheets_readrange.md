@@ -2,7 +2,7 @@
 
 Component getting data from the Google Sheets cell range. The component works correctly only inside the Excel application container
 
-![](<../../../.gitbook/assets/image (275).png>)
+![](<../../../.gitbook/assets/image (184).png>)
 
 Properties
 

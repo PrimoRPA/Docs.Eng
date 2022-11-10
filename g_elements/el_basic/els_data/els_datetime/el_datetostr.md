@@ -1,10 +1,10 @@
 # Date to string
 
-![](<../../../../.gitbook/assets/image (289).png>)
+![](<../../../../.gitbook/assets/image (132).png>)
 
 Element, that converts date to string.
 
-![](<../../../../.gitbook/assets/image (121).png>)
+![](<../../../../.gitbook/assets/image (252).png>)
 
 Properties
 

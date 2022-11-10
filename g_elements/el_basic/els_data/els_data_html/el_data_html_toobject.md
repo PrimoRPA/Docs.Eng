@@ -1,10 +1,10 @@
 # HTML to object
 
-![](<../../../../.gitbook/assets/image (172).png>)
+![](<../../../../.gitbook/assets/image (119).png>)
 
 Element that converts HTML to an object and searches it. If XPath is specified, the result will be of AngleSharp.Dom.INode type, otherwise it will be of AngleSharp.Html.Parser.IHtmlDocument type.
 
-![](<../../../../.gitbook/assets/1 (18).png>)
+![](<../../../../.gitbook/assets/1 (5).png>)
 
 Properties
 

@@ -1,10 +1,10 @@
 # Delete Credentials
 
-![](<../../../.gitbook/assets/0 (2).png>)
+![](<../../../.gitbook/assets/0 (17).png>)
 
 Element that deletes credentials from the Credential Manager
 
-![](<../../../.gitbook/assets/1 (9).png>)
+![](<../../../.gitbook/assets/1 (14).png>)
 
 Properties
 

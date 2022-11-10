@@ -1,10 +1,10 @@
 # File/folder exists
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (36).png>)
 
 Element that checks for a file or folder
 
-![](<../../../.gitbook/assets/1 (76).png>)
+![](<../../../.gitbook/assets/1 (81).png>)
 
 Properties
 

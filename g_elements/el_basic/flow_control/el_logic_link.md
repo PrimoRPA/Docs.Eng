@@ -1,10 +1,10 @@
 # Process link
 
-![](<../../../.gitbook/assets/image (39).png>)
+![](<../../../.gitbook/assets/image (56).png>)
 
 Element that performs the process specified in the link.
 
-![](<../../../.gitbook/assets/1 (98).png>)
+![](<../../../.gitbook/assets/1 (120).png>)
 
 
 

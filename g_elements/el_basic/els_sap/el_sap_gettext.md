@@ -1,10 +1,10 @@
 # Get text
 
-![](<../../../.gitbook/assets/0 (15).png>)
+![](<../../../.gitbook/assets/0 (57).png>)
 
 Element that obtains the text of a selected control element. The component works correctly only inside the SAP container.
 
-![](<../../../.gitbook/assets/1 (14).png>)
+![](<../../../.gitbook/assets/1 (43).png>)
 
 Properties
 

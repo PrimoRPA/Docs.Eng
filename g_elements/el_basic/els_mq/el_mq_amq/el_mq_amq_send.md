@@ -1,6 +1,6 @@
 # Send message
 
-![](<../../../../.gitbook/assets/image (30).png>)
+![](<../../../../.gitbook/assets/image (82).png>)
 
 Element that sends message to ActiveMQ server queue.
 

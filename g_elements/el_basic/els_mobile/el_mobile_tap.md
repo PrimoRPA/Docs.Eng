@@ -1,10 +1,10 @@
 # Tap control
 
-![](<../../../.gitbook/assets/0 (128).png>)
+![](<../../../.gitbook/assets/0 (123).png>)
 
 Element clicking a selected control element. The component works correctly only inside the Connect to a Device container.
 
-![](<../../../.gitbook/assets/1 (112).png>)
+![](<../../../.gitbook/assets/1 (130).png>)
 
 Properties
 

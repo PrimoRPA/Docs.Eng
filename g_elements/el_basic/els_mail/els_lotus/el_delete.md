@@ -2,7 +2,7 @@
 
 Element that deletes mail from Lotus Notes.
 
-![](<../../../../.gitbook/assets/image (234).png>)
+![](<../../../../.gitbook/assets/image (300).png>)
 
 Properties:
 

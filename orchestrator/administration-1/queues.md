@@ -2,7 +2,7 @@
 
 Queues tab stores information about current Orchestrator queues
 
-![](<../../.gitbook/assets/image (110).png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 Queues table demonstrates following data:
 
@@ -19,7 +19,7 @@ To see items in the queue, press the number in Number of elements column
 
 To create new queue click Add queue button
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (88).png>)
 
 Enter the new queue name, publicity parameters and available robots&#x20;
 

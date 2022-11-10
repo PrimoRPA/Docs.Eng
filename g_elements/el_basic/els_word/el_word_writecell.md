@@ -1,8 +1,8 @@
 # Write table cell
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (92).png>)
 
-![](<../../../.gitbook/assets/image (116).png>)
+![](<../../../.gitbook/assets/image (127).png>)
 
 
 

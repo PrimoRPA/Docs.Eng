@@ -1,10 +1,10 @@
 # While
 
-![](<../../../.gitbook/assets/image (45).png>)
+![](<../../../.gitbook/assets/image (77).png>)
 
 Component-cycle that continues until the expression set in it returns the Truth (at the end of the cycle)
 
-![](<../../../.gitbook/assets/1 (89).png>)
+![](<../../../.gitbook/assets/1 (94).png>)
 
 Properties
 

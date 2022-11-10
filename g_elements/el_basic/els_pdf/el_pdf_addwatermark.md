@@ -1,10 +1,10 @@
 # Add watermark
 
-![](<../../../.gitbook/assets/image (89).png>)
+![](<../../../.gitbook/assets/image (112).png>)
 
 Element that adds a watermark to a PDF document.
 
-![](<../../../.gitbook/assets/1 (16).png>)
+![](<../../../.gitbook/assets/1 (8).png>)
 
 Properties
 

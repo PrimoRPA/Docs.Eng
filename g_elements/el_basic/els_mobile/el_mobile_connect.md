@@ -1,10 +1,10 @@
 # Attach device
 
-![](<../../../.gitbook/assets/0 (129).png>)
+![](<../../../.gitbook/assets/0 (95).png>)
 
 Element connecting to mobile devices.
 
-![](<../../../.gitbook/assets/1 (75).png>)
+![](<../../../.gitbook/assets/1 (78).png>)
 
 Properties
 

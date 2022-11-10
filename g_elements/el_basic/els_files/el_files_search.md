@@ -1,10 +1,10 @@
 # File search
 
-![](<../../../.gitbook/assets/image (69).png>)
+![](<../../../.gitbook/assets/image (53).png>)
 
 Searches for files and directories.
 
-![](<../../../.gitbook/assets/image (308).png>)
+![](<../../../.gitbook/assets/image (311).png>)
 
 Properties:
 

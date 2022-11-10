@@ -1,10 +1,10 @@
 # Regular expression
 
-![](<../../../../.gitbook/assets/image (238).png>)
+![](<../../../../.gitbook/assets/image (206).png>)
 
 Element that applies regular expression to given string.
 
-![](<../../../../.gitbook/assets/image (177).png>)
+![](<../../../../.gitbook/assets/image (149).png>)
 
 Properties
 
