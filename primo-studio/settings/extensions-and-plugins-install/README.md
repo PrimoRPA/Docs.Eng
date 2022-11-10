@@ -1,0 +1,2 @@
+# Extensions and plugins install
+
