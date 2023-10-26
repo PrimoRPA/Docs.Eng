@@ -29,7 +29,7 @@ LTools.Office.Model.OMailMessage is a mail message model. It is used in the elem
 ## Details 
 
 ### CreateDate
-CreateDate/ReceiveDate model property has the following set of properties::
+**CreateDate/ReceiveDate** model property has the following set of properties::
 
 ![](<../../../../.gitbook/assets/omail-createdate.png>)
 
@@ -37,7 +37,7 @@ Example of obtaining the day of the month when the message was created: `var_lis
 * var_list_mails - nominal name of the variable;
 * [0] - index of the message whose property we want to obtain. 
 
-If the result is output via the element [**Add log**](https://docs.primo-rpa.ru/primo-rpa/g_elements/el_basic/els_dialogs/el_dialogs_addlog), remember to cast the value as a string. Example result: `13`.
+If the result is output via the [**Add log**](https://docs.primo-rpa.ru/primo-rpa/g_elements/el_basic/els_dialogs/el_dialogs_addlog) element, make sure to cast the value as a string. Example result: `13`.
 
 ### Element
 
@@ -56,12 +56,12 @@ For example, to obtain the sender name for an Exchange message, it should first 
 
 ### MessageProperties
 
-MessageProperties model property (only Outlook) has the following set of properties: 
+**MessageProperties** model property (only Outlook) has the following set of properties: 
 
 ![](<../../../../.gitbook/assets/omail-message-properties2.png>)
 
 Their descriptions can be found in [this section](https://learn.microsoft.com/en-us/office/client-developer/outlook/mapi/mapi-properties), by selecting in the left menu the name of the canonical property. 
 
-Example of obtaining the displayed [sender name](https://learn.microsoft.com/en-us/office/client-developer/outlook/mapi/pidtagsendername-canonical-property)): `var_list_mails[0].MessageProperties.PR_SENDER_NAME`. 
+Example of obtaining the displayed [sender name](https://learn.microsoft.com/en-us/office/client-developer/outlook/mapi/pidtagsendername-canonical-property): `var_list_mails[0].MessageProperties.PR_SENDER_NAME`. 
 
-It should be noted that the sender name may not be displayed - it depends on the mail server settings.
+It should be noted that the sender name may not be displayed - that depends on the mail server settings.
