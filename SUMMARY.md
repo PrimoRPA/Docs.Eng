@@ -167,6 +167,7 @@
       * [OContact](g_elements/el_basic/els_mail/data-types/ocontact.md)
     * [Lotus Notes](g\_elements/el\_basic/els\_mail/els\_lotus/README.md)
       * [Attach Lotus Notes](g\_elements/el\_basic/els\_mail/els\_lotus/el\_connect.md)
+      * [Save attachment](g_elements/el_basic/els_mail/els_lotus/el-saveatt.md)
       * [Delete mail](g\_elements/el\_basic/els\_mail/els\_lotus/el\_delete.md)
       * [Move mail](g\_elements/el\_basic/els\_mail/els\_lotus/el\_move.md)
       * [Read mail](g\_elements/el\_basic/els\_mail/els\_lotus/el\_read.md)
