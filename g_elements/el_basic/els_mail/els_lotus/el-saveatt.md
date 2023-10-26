@@ -1,7 +1,6 @@
 # Save attachment
 
-![](<../../../../.gitbook/assets/image (844).png>)
-
+![](<../../../../.gitbook/assets/Lotus-SaveAttach.png>)
 
 
 Component that saves email attachments.
