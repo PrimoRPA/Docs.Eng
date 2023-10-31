@@ -1,11 +1,12 @@
 # Table of contents
 
 * [Primo RPA](README.md)
+  * [Useful links](primo-studio/useful-links.md)
 
 ## Primo Studio
 
-* [Useful links](primo-studio/useful-links.md)
 * [Software requirements](primo-studio/systemreq.md)
+* [Editions](primo-studio/editions.md)
 * [Installation and startup](primo-studio/installation/README.md)
   * [Robot Core manual installation and execution](primo-studio/installation/install\_robot\_core.md)
 * [Getting started](primo-studio/gettingstarted.md)
