@@ -8,7 +8,7 @@
 * [Useful links](primo-studio/useful-links.md)
 * [System requirements](primo-studio/systemreq.md)
 * [Editions](primo-studio/editions.md)
-* [Installation and startup](primo-studio/installation/README.md)
+* [Installation and updates](primo-studio/installation/README.md)
   * [Robot Core manual installation and execution](primo-studio/installation/install\_robot\_core.md)
   * [Updates](primo-studio/installation/update.md)
 * [Getting started](primo-studio/gettingstarted.md)
