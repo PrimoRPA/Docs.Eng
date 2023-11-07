@@ -2,159 +2,182 @@
 
 After a successful launch, the main welcome window will appear on the screen.
 
-![](<../.gitbook/assets/0 (11).png>)
+![](<../.gitbook/assets/Studio-Welcome.png>)
 
-From this window you can create a new project, open an existing one or select one of the last projects you have been working with. If the "Show on startup" checkbox is unchecked, this window will no longer appear.
+From this window you can create a new project, open an existing one, select one of the last projects you have been working with or clone a project from Git. If the "Show on startup" checkbox is unchecked, this window will no longer appear.
 
-After closing the welcome window, the studio window will be available.
+After closing the welcome window, the studio workspace window will be available.
 
-![](<../.gitbook/assets/1 (40).png>)
+![](<../.gitbook/assets/Studio-Main.png>)
 
 The following components are present in the window:
 
-Application Main Menu
+**Application Main Menu - File**
 
-![](<../.gitbook/assets/2 (8).png>)
+![](<../.gitbook/assets/Studio-File.png>)
 
 This menu contains the following items:
 
-File
+Project
 
 * New project
 * Open project
-* Save project
-* Recent
 * Close project
-* Settings
-* Exit
+* Recent
+* Project templates
 
-Edit
+Team
 
-* Find
-* Undo
-* Redo
-* Cut
-* Copy
-* Paste
+* Create repository
+* Clone
+* Remotes
 
-View
+Export
 
-* Project
-* Elements
-* Properties
-* Traffic
-* Traffic pack
-* Traffic filter
-* Smart devices
-* UI explorer
-* SAP explorer
+* Pack project
+* Create library
+
+Settings  
+
+About
+
+Exit
+
+**Application Main Menu - Home**
+
+![](<../.gitbook/assets/Studio-Ribbon.png>)
+
+* Save process
+* Save project
+* Playback
+* Debug
+* Cut / Copy / Paste
+* Recorder
+* Find / Undo / Redo 
+* Manage dependencies
+* Analysis
+
+**Application Main Menu - View**
+
+![](<../.gitbook/assets/Studio-View.png>)
+
+* Hide all annotations
+* Show all annotations
+* Panels
+
+**Application Main Menu - Debug**
+
+![](<../.gitbook/assets/Studio-Debug.png>)
+
+* Save project
+* Debug
+* Stop
+* Slow execution (off)
+* Step over / Continue / Debug into / Repeat step
+* Highlight components
+* Run config
+* Edition
+* Mocks
+* Remove all breakpoints
+* Remove all ignores
+* Dump variables
+
+**Application Main Menu - Tools**
+
+![](<../.gitbook/assets/Studio-Tools.png>)
+
+* Import
+* OCR Pattern Editor
+* Dialog designer
+* Convert syntax
+* Open PrimoImportFix
+
+**Project / Elements panel**
+
+This panel has two tabs: Project and Elements.
+
+![](<../.gitbook/assets/Studio-Project.png>)
+
+Project panel has the following buttons:
+
+* Refresh project
+* New folder
+* Edit item
+* Add file
+* Delete item
+* New process
+* Expand folders
+* Collapse folders
+
+![](<../.gitbook/assets/Studio-Elements.png>)
+
+Elements panel has the following buttons:
+
+* Expand elements
+* Collapse elements
+
+**Main work area**
+
+![](<../.gitbook/assets/Studio-Workspace.png>)
+
+**Properties Panel**
+
+![](<../.gitbook/assets/Studio-Properties.png>)
+
+**Traffic Interception Panel**
+
+![](<../.gitbook/assets/Studio-Traffic.png>)
+
+This panel has the following buttons:
+
+* Start
+* Stop
+* Follow
+* Delete
+* Cleanup
+
+**Traffic Filter Panel**
+
+![](<../.gitbook/assets/Studio-TrafficFilter.png>)
+
+**Smart Devices Panel**
+
+![](<../.gitbook/assets/Studio-SmartDevices.png>)
+
+**UI Explorer Panel**
+
+![](<../.gitbook/assets/Studio-UIExplorer.png>)
+
+There are the following buttons on this panel:
+
+* Refresh tree
+* Refresh tree (10s pause)
+* Copy search pattern
+* Search by pattern
+* Search
+
+**SAP Explorer Panel**
+
+![](<../.gitbook/assets/Studio-SAPExplorer.png>)
+
+This panel has the following buttons:
+
+* Refresh tree
+* Copy search pattern
+* Search
+* Indicate component
+* Component data
+
+**Bottom panel**
+
+![](<../.gitbook/assets/Studio-BottomPanel.png>)
+
+The bottom panel has the following tabs:
+
 * Variables
 * Arguments
 * Watch
 * Console
 * Errors
-* Panels Reset
-
-Project
-
-* Pack project
-* Git
-  * Pull
-  * Undo pending changes
-  * Commit
-  * View commits
-  * Branches
-  * Disconnect
-  * Remotes
-
-Process
-
-* Playback
-* Debug
-* Step over
-* Continue
-* Stop
-* Web recorder
-* Desktop recorder
-
-Help
-
-* User manual
-* About
-
-Action Panel
-
-![](<../.gitbook/assets/image (330).png>)
-
-This panels contains the following buttons:
-
-* Save project
-* Find
-* Cut
-* Copy
-* Paste
-* Undo
-* Redo
-* Playback
-* Execution configuration
-* Debug
-* Step over
-* Continue
-* Stop
-* Recorder
-*
-  *
-    * Web recorder
-    * Desktop recorder
-* Remove all breakpoint
-* Remove all ignores
-* Robot edition
-* Add or Remove Buttons
-
-Project Panel
-
-![](<../.gitbook/assets/4 (11).png>)
-
-This panel contains the following buttons։
-
-* New folder
-* Edit item
-* Delete item
-* New process
-* Toolbox
-
-Elements panel
-
-![](<../.gitbook/assets/5 (2).png>)
-
-Main Working Area
-
-![](<../.gitbook/assets/6 (4).png>)
-
-Properties Panel
-
-![](<../.gitbook/assets/7 (8).png>)
-
-Traffic Interception Panel
-
-![](<../.gitbook/assets/8 (9).png>)
-
-Packet Properties Panel
-
-![](<../.gitbook/assets/9 (4).png>)
-
-Traffic Filter Panel
-
-![](<../.gitbook/assets/10 (1).png>)
-
-Smart Devices Panel
-
-![](../.gitbook/assets/11.png)
-
-UI Inspector Panel
-
-![](<../.gitbook/assets/12 (2).png>)
-
-SAP Inspector Panel
-
-**Screenshot**
+* Analysis
+* To Do
