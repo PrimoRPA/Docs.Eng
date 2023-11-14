@@ -33,7 +33,7 @@ The license is tied to the user account and is updated locally.
 
 ![](<../../.gitbook/assets/Enterprise-LocalLicense_Key_withred.png>)
     
-* Copy this text and send it to the vendor at [help@rondem.ru](mailto:help@rondem.ru). The reply will contain a license key file with \*.license extension.
+* Copy this text and send it to the vendor at [license@primo-rpa.ru](mailto:license@primo-rpa.ru). The reply will contain a license key file with \*.license extension.
 * Load the license key into the system by pressing the **Upload key** button (4). 
     
 :white_check_mark: If this process is completed successfully, the registration window will close and Studio will be ready for work. 
