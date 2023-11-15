@@ -21,6 +21,7 @@
     * [Edge](primo-studio/settings/extensions-and-plugins-install/edge.md)
     * [RDP](primo-studio/settings/extensions-and-plugins-install/rdp.md)
   * [Automated installation of extensions for browsers](primo-studio/settings/autoinstall-browser-extension.md)
+  * [Updating Selenium WebDriver](primo-studio/settings/update-web-driver.md)
   * [Fine-tuning](primo-studio/settings/fine-tuning/layout.md)
       * [Multi-session work](primo-studio/settings/fine-tuning/multisession.md)
 * [Working with projects](primo-studio/projects.md)
