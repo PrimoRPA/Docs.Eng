@@ -1,18 +1,21 @@
 # Useful links
 
-Primo RPA web-site
+1. [Primo RPA web-site](http://primo-rpa.ru) - here you can find company and product news, use cases and testimonials, as well as request Studio Community version to learn more about the product's functionality.
 
-{% embed url="http://primo-rpa.ru" %}
+2. Learning resources:
+   * [Primo Academy](https://academy.primo-rpa.ru/)
+   * [YouTube](https://www.youtube.com/channel/UCHc4loXmLSH1-l6PBGnz5ng)
 
-Primo Academy
+3. [GitHub examples](https://github.com/PrimoRPA/Learning) - demo RPA projects that use Studio elements.
 
-[https://rondem-s-academy.thinkific.com/](https://rondem-s-academy.thinkific.com/)
+4. [Knowledge base (QA)](https://qa.primo-rpa.ru/) - frequently asked questions about using Primo RPA for robotization. 
 
-Wiki in russian
+5. [Telegram chat](https://t.me/primorpa) - community for RPA developers.
 
-{% embed url="https://rondem.gitbook.io/primo-rpa/" %}
+6. Wiki:
+   * [English](https://docs.primo-rpa.ru/primo-rpa-eng/)
+   * [Russian](https://docs.primo-rpa.ru/primo-rpa/)
 
-Educational samples
 
-{% embed url="https://github.com/PrimoRPA/Learning" %}
+
 
