@@ -2,7 +2,9 @@
 
 Interaction of Primo products with Web browsers requires installing **Primo RPA Extension**. It is suitable for the following browsers: Chrome, Firefox, Edge, Yandex.
 
-This section provides information about automating the installation of Primo RPA Extension version 1.59.
+This section provides information about automating the installation of Primo RPA Extension version 1.59.\*
+
+> \**When extension version is changed from 1.59, it might be necessary to make changes to the script _Install_BrowserExtensions_GPO.bat. More information about it can be found in the subsection [below](https://docs.primo-rpa.ru/primo-rpa/primo-studio/settings/autoinstall-browser-extension#izmenenie-versii-rasshireniya).*
 
 ## General
 
@@ -39,6 +41,11 @@ Copy the files from step 2 into any folder, and subsequently run them with the a
 ```
 C:\Scripts\_InstallWebBrowserNative.bat “C:\Program Files\Primo\Primo Robot x64”
 ```
+### Изменение версии расширения
+
+When extension version is changed from 1.59, it might be necessary to make changes to the script `_Install_BrowserExtensions_GPO.bat`. Open the script file and check the version of the extension being installed. If needed, change it:
+
+![](../../.gitbook/assets/AutoInstall-ScriptVersion.png)
 
 ## Installation description
 
