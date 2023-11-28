@@ -8,7 +8,7 @@ Analysis functionality allows verifying that a project/process meets the standar
 
 ## Settings
 
-To set up analyzer rules, click on **Analysis ➝ Settings** button on the *Home* menu tab.\
+To set up analyzer rules, click on **Analysis ➝ Settings** button on the *Home* menu tab:
 
 ![](<../../.gitbook/assets/AnalysisButton.png>)
 
