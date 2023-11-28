@@ -46,10 +46,10 @@ Analysis results can be exported as an \*.xlsx file. Export is available by clic
 
 The following parameters are used to run the analyzer from the command line:
 
-1. rulepath=<path to the rules file>.
-2. projfile=<path to the project>.
-3. outputfile=<path to the results file>.
-4. errlog=<path to the log file>.
+1. rulepath - path to the rules file.
+2. projfile - path to the project.
+3. outputfile - path to the results file.
+4. errlog - path to the log file.
 5. noclose - do not close until analysis is completed.
 6. console - output to console.
 7. output=\<json,xml,xlsx\> - format of the results file.
