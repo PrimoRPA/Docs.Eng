@@ -27,7 +27,7 @@
   * [NuGet](primo-studio/settings/nuget.md)
   * [Fine-tuning](primo-studio/settings/fine-tuning/layout.md)
       * [Multi-session work](primo-studio/settings/fine-tuning/multisession.md)
-* [Working with projects](primo-studio/projects.md)
+* [Working with projects](primo-studio/projects/readme-projects.md)
 * [Working with processes](primo-studio/process/README.md)
   * [Sandbox](primo-studio/process/processes\_sandbox.md)
 * [Working with sequences](primo-studio/sequence.md)
