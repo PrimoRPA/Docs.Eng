@@ -1,6 +1,6 @@
 # Edge
 
-## Упакованное расширение
+## Packed extension
 
 * In Studio, open **File > Settings > Tools > Extensions**.
 * Under the **Edge** icon, select `Packed` from the dropdown list, then click on the browser icon itself.
