@@ -60,6 +60,8 @@ Processes and folders can be moved by dragging them to the desired project node.
 
 To edit a folder or a process, click the **Edit item** button:
 
+:small_orange_diamond: *Project path, specified at its creation time, cannot be changed.*
+
 ![](<../../.gitbook/assets/EditFolder-Dialog.png>)
 
 Deleting an item is done by selecting the element in the project and clicking the **Delete item** button. Confirm the action by pressing the **OK** button.
