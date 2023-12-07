@@ -15,7 +15,7 @@ If the name of the property is marked with an asterisk `*`, this means that it i
 | ***Exchange***  | | | 
 | Destination folder\* | String                                                                 | Destination folder |
 | Messages\*           | List<[LTools.Office.Model.OMailMessage](../datatypes/omailmessage.md)> | Message array |
-| Common inbox         | String  | Specify a common inbox if messages need to be moved within it |
+| Shared inbox         | String  | Specify a shared inbox if messages need to be moved within it |
 
 ## Pure code
 Example of using the element in a process of **Pure code** type:
