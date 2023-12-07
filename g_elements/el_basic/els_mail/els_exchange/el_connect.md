@@ -1,13 +1,13 @@
 # MS Exchange server
 
 
-![](<../../../../.gitbook/assets/image (366).png>)
+![](<../../../../.gitbook/assets/MSExchange-connect.png>)
 
-This element establishes connection to Microsoft Exchange server and enables a robot to interact with it to perform operations with email. 
+This element establishes a connection to Microsoft Exchange server and enables robots to interact with it to perform operations with email. 
 
-It is a container for other elements that are part of the `MS Exchange` group (see illustration below), which are used for sending/receiving email, attaching files to messages, extracting attachments and other email operations.
+It is a container for other elements that are part of the `MS Exchange` group (see the illustration below), which are used for sending/receiving email, attaching files to messages, extracting attachments and other email operations.
 
-![](<../../../../.gitbook/assets1/items-from-groups-ms-exchange.png>)
+![](<../../../../.gitbook/assets/MSExchange-container.png>)
 
 ## Properties
 
@@ -23,10 +23,10 @@ If the name of the property is marked with an asterisk `*`, this means that it i
 | Domain              | String                                               | Domain name                                                                   |
 | Login              | String                                               | User login                                                           |
 | Password             | String                                               | Password of the Exchange account                                               |
-| Secure password |[SecureString](https://learn.microsoft.com/ru-ru/dotnet/api/system.security.securestring?view=netcore-2.0) | Field for the encrypted password. For security purposes the password in SecureString format is not stored openly. It can be obtained, for example, from **Credential Manager** application |
-| Russian time zone | Boolean                                         | This setting is meant for time corrections. For example, if the time zone is determined incorrectly in the Russian localized version. Disabled by default.  |
+| Secure password |[SecureString](https://learn.microsoft.com/en-us/dotnet/api/system.security.securestring?view=net-8.0) | Field for the encrypted password. For security purposes the password in SecureString format is not stored openly. It can be obtained, for example, from **Credential Manager** application |
+| Russian time zone | Boolean                                         | This setting is meant for time corrections. For example, if the time zone is determined incorrectly in the Russian localized version. By default it is disabled.  |
 
-:small_orange_diamond: **Important!** For successful extraction of email attachments it is necessary to enable the **Russian time zone** property.
+:small_orange_diamond: **Important!** Extracting of email attachments requires enabling the **Russian time zone** property.
 
 ## Learning
 There is a sample RPA project available to practice using the **MS Exchange server** element. It can be accessed by [downloading a Learning archive](https://github.com/PrimoRPA/Learning/archive/refs/heads/master.zip).
