@@ -1,4 +1,4 @@
-# Marking messages
+# Mark messages
 
 ![](<../../../../.gitbook/assets/MSExchange-MarkMessages.png>)
 
