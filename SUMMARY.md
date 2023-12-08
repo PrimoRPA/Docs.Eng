@@ -190,7 +190,7 @@
       * [Mark messages](g_elements/el_basic/els_mail/els_exchange/el-mark.md)
       * [Move to folder](g_elements/el_basic/els_mail/els_exchange/el-move.md)
       * [Read mail](g_elements/el_basic/els_mail/els_exchange/el-read.md)
-      * [Save attachments](g_elements/el_basic/els_mail/els_exchange/el-saveatt.md)
+      * [Save attachment](g_elements/el_basic/els_mail/els_exchange/el-saveatt.md)
       * [Save mail](g_elements/el_basic/els_mail/els_exchange/el-savemail.md)
       * [Send mail](g_elements/el_basic/els_mail/els_exchange/el-send.md) 
     * [Move to folder (IMAP)](g\_elements/el\_basic/els\_mail/imap\_movetofolder.md)
