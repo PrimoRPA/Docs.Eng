@@ -48,6 +48,16 @@ Supported arguments:
 * **language** - installation language (EN, RU);
 * **mode** - installation mode (store, packed, unpacked, storelocal).
 
+Example of installing without the internet connection:
+```
+LTools.WebBrowser.Native.exe install=CHROME lang=RU mode=packed
+```
+
+Example of installing with internet connection present:
+```
+LTools.WebBrowser.Native.exe install=CHROME lang=RU mode=storelocal
+```
+
 ## Plugins
 
 ### RDP
