@@ -29,6 +29,7 @@
     * [Multi-session work](primo-studio/settings/fine-tuning/multisession.md)
 * [Working with projects](primo-studio/projects/readme-projects.md)
     * [Analyzing projects](primo-studio/projects/analyzer.md)
+    * [Dependencies](primo-studio/projects/manage-dependencies.md)
 * [Working with processes](primo-studio/process/README.md)
   * [Sandbox](primo-studio/process/processes\_sandbox.md)
 * [Working with sequences](primo-studio/sequence.md)
