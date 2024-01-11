@@ -37,18 +37,18 @@ Properties:
 | Bold                   | bool                                            | Bold font                       |
 | Italic                 | bool                                            | Italic font                     |
 | Element color          | System.Windows.Media.Color                      | Element highlight border color  |
-| Проговаривать          | Boolean                                         | Проговаривать текст             |
-| Голос                  | String                                          | Голос диктора                   |
-| Громкость              | Int32                                           | Громкость голоса                |
-| Скорость               | Int32                                           | Скорость прочитки текста        |
-| Элемент (Рабочий стол) | <p></p><p>LTools.Desktop.Model.DUIControl</p>   | Элемент рабочего стола          |
-| Элемент (Браузер)      | LTools.WebBrowser.Model.IElementInfo            | Элемент браузера                |
-| X                      | Int32                                           | Координата X                    |
-| Y                      | Int32                                           | Координата Y                    |
-| Ширина                 | Int32                                           | Ширина подсказки                |
-| Высота                 | Int32                                           | Высота подсказки                |
-| Затемнение             | bool                                            | Затемнение экрана               |
-| Расположение           | LTools.Office.Model.Assistant.PreferedLocations | Желаемое расположение подсказки |
+| Do speak               | Boolean                                         | Speak text                      |
+| Voice                  | String                                          | Speaker voice                   |
+| Volume                 | Int32                                           | Voice volume                    |
+| Speed                  | Int32                                           | Speech speed                    |
+| Control (Desktop)      | LTools.Desktop.Model.DUIControl                 | Desktop control reference       |
+| Control (Browser)      | LTools.WebBrowser.Model.IElementInfo            | Browser control reference       |
+| X                      | Int32                                           | X coordinate                    |
+| Y                      | Int32                                           | Y coordinate                    |
+| Width                  | Int32                                           | Tooltip width                   |
+| Hight                  | Int32                                           | Tooltip height                  |
+| Fade                   | bool                                            | Screen fade                     |
+| Location               | LTools.Office.Model.Assistant.PreferedLocations | Preferred tooltip location      |
 
 {% tabs %}
 {% tab title="C#" %}
