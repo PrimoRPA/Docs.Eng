@@ -1,7 +1,5 @@
 # Open browser
 
-![](../../../.gitbook/assets/open\_browser.png)
-
 This element performs two main functions:
 1. Opens a new instance of a browser or a new tab in the already open browser. **Note**: for Internet Explorer, only a new instance will be opened. 
 2. Serves as a container for other elements that work with web pages. For example, such elements as [**Element exists**](https://docs.primo-rpa.ru/primo-rpa-eng/g_elements/el_basic/els_uiinteraction/el_exists), [**Mouse click**](https://docs.primo-rpa.ru/primo-rpa-eng/g_elements/el_basic/els_uiinteraction/el_click), [**Refresh**](https://docs.primo-rpa.ru/primo-rpa-eng/g_elements/el_basic/els_browser/el_refresh), etc.
