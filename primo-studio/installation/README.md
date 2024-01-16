@@ -4,27 +4,27 @@
 
 The installation of the Primo Studio application is performed by an installer, which is run by the setup.exe file. In order for Primo Studio to work correctly, it requires Microsoft.NET Framework 4.6.1, which is installed together with the studio.
 
-![](<../../.gitbook/assets/Studio-setup-exe.png>)
+![](<../../.gitbook/assets/Install-files-eng.png>)
 
 Once the installer is started, a standard welcome window will appear.
 
-![](<../../.gitbook/assets/InstallShield1.png>)
+![](<../../.gitbook/assets/Install-welcome-eng.png>)
 
 After clicking Next, the installer will ask you to choose a folder to install Primo Studio.
 
-![](<../../.gitbook/assets/InstallShield2.png>)
+![](<../../.gitbook/assets/Install-destfolder-eng.png>)
 
 After clicking Next, you will be asked to choose the setup type and to confirm the start of installation.
 
-![](../../.gitbook/assets/InstallShield3.png)
+![](../../.gitbook/assets/Install-setuptype-eng.png)
 
-![](<../../.gitbook/assets/InstallShield4.png>)
+![](<../../.gitbook/assets/Install-ready-eng.png>)
 
-![](<../../.gitbook/assets/InstallShield5.png>)
+![](<../../.gitbook/assets/Install-process-eng.png>)
 
 The last screen of the installer informs that the installation of the distribution package was completed successfully.
 
-![](<../../.gitbook/assets/InstallShield6.png>)
+![](<../../.gitbook/assets/Install-finish-eng.png>)
 
 ## Startup
 
