@@ -19,7 +19,7 @@ Symbol `*` in the property name means that it is required. Description of common
 | URL                | String                              | URL of the current browser page                                                                 |
 | Variable           | LTools.WebBrowser.BrowserInst       | Variable that contains a reference to the earlier attached browser (if there is one)            |
 | Dispose            |                                     | Determines whether the reference to the browser should be disposed of on exit                   |
-| Time-out\*         | Int32                               | Maximum time of waiting for process completion (in msec). By default it is set to `10000`       |
+| Time-out\*         | Int32                               | Maximum time of waiting for process completion (in ms). By default it is set to `10000`       |
 | **SAP**            |                                     |                                                                                                 |
 | Component ID       | String                              | ID of the browser component in SAP                                                              |
 | Component          | LTools.SAP.Model.SAPUIItem          | Variable that contains a reference to the SAP component                                         |
