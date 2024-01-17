@@ -1,4 +1,4 @@
-# Назад
+# Back
 
 ![](<../../../.gitbook/assets/image (177).png>)
 
