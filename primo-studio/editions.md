@@ -40,6 +40,6 @@ Regardless of the edition that you select, all key development features will be 
 
 ## How to get 
 
-**Studio Community** can be requested at the [official Primo RPA platform website](https://primo-rpa.ru/). Although Studio itself is free of charge, projects can be launched only within it - Primo Robot application requires a separate license.
+**Primo RPA Studio Community** can be requested at the [official Primo RPA platform website](https://primo-rpa.ru/). Although Studio itself is free of charge, projects can be launched only within it - Primo Robot application requires a separate license.
 
-**Studio Enterprise** [distribution package can be found here](https://disk.primo-rpa.ru/index.php/s/primo?path=%2FRelease%2FStudio). During installation Studio will ask for a license: it is necessary to create a license request and send it to the vendor's email. You can find more information about it, as well as about license types, in the section [Launching Studio Enterprise](https://docs.primo-rpa.ru/primo-rpa/primo-studio/enterprise).
+**Primo RPA Studio Enterprise** distribution package [can be found here](https://disk.primo-rpa.ru/index.php/s/primo?path=%2FRelease%2FStudio). Enterprise edition is distributed commercially and requires a contract for its use. During installation Studio will ask for a license: it can be issued only if there is a valid contract. To get a license it is necessary to create a license request and send it to the vendor's email.  You can find more information about it, as well as about license types, in the section [Launching Studio Enterprise](https://docs.primo-rpa.ru/primo-rpa/primo-studio/enterprise).
