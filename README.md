@@ -8,7 +8,7 @@ description: User manual
 ![](.gitbook/assets/Primo-Logo.png)
 
 
-**Primo RPA** is a Russian software solution for robotization of business processes.
+**Primo RPA** is a software solution for robotization of business processes.
 
 Benefits of using Primo RPA:
 * Cost reduction by employing robots to perform repetitive routine operations.
