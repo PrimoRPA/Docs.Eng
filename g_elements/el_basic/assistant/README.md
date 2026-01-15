@@ -4,8 +4,7 @@ Assistant group elements can be used to create interactive hints for your Web or
 
 Hint window consists of the following components:
 
-![](<../../../.gitbook/assets/image (137).png>)
-
+![alt](<../../../.gitbook/../assistant.png>)
 
 
 1. Hint text. May contain text, HTML or web page URL;
